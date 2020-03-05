@@ -1,0 +1,757 @@
+Date received,Product,Sub-product,Issue,Sub-issue,Consumer complaint narrative,Company public response,Company,State,ZIP code,Submitted via,Date sent to company,Company response to consumer,Timely response?,Consumer disputed?,Complaint ID
+11/30/2015,Consumer loan,Vehicle loan,Taking out the loan or lease,,,,Navy FCU,NY,120XX,Web,11/30/2015,In progress,Yes,,1675110
+11/30/2015,Debt collection,Auto,Communication tactics,Used obscene/profane/abusive language,,,Ally Financial Inc.,GA,30349,Web,11/30/2015,In progress,Yes,,1675325
+11/30/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,Clark County Collection Service,NV,891XX,Web,11/30/2015,Closed,Yes,,1676933
+11/30/2015,Payday loan,,Received a loan I didn't apply for,,,,CNG Financial Corporation,MI,48071,Web,11/30/2015,Closed with explanation,Yes,,1675274
+11/30/2015,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Used obscene/profane/abusive language,,,"Hunter Warfield, Inc.",GA,308XX,Web,11/30/2015,In progress,Yes,,1676008
+11/30/2015,Payday loan,,Received a loan I didn't apply for,,,,CNG Financial Corporation,VA,232XX,Web,11/30/2015,Closed with explanation,Yes,,1675537
+11/30/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,Ally Financial Inc.,PA,152XX,Web,11/30/2015,In progress,Yes,,1676454
+11/30/2015,Debt collection,Payday loan,Taking/threatening an illegal action,Threatened arrest/jail if do not pay,,,CNG Financial Corporation,VA,232XX,Web,11/30/2015,Closed with explanation,Yes,,1675539
+11/30/2015,Credit reporting,,Incorrect information on credit report,Personal information,,Company believes complaint caused principally by actions of third party outside the control or direction of the company,"Credit Karma, Inc.",PA,190XX,Web,11/30/2015,Closed with explanation,Yes,,1675866
+11/30/2015,Bank account or service,Checking account,"Account opening, closing, or management",,,Company chooses not to provide a public response,BB&T Financial,WV,25403,Referral,11/30/2015,Closed with explanation,Yes,,1675145
+11/29/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,,"RMS-Recovery Management Services, Inc.",FL,32218,Web,11/30/2015,Closed with explanation,Yes,,1676179
+11/29/2015,Debt collection,"Other (phone, health club, etc.)",Taking/threatening an illegal action,Seized/Attempted to seize property,,Company believes it acted appropriately as authorized by contract or law,"The Allen Daniel Associates, Inc.",WA,98363,Web,11/29/2015,Closed with explanation,Yes,Yes,1674803
+11/29/2015,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Navy FCU,DE,197XX,Web,11/30/2015,In progress,Yes,,1675064
+11/29/2015,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Arbor Residential Mortgage LLC,GA,30102,Web,11/29/2015,In progress,Yes,,1674758
+11/29/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,Company can't verify or dispute the facts in the complaint,"Credit Karma, Inc.",PA,191XX,Web,11/29/2015,Closed with explanation,Yes,,1674819
+11/29/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,"EOS Holdings, Inc.",FL,337XX,Web,11/29/2015,Closed with explanation,Yes,,1674670
+11/28/2015,Credit reporting,,Incorrect information on credit report,Public record,,Company believes complaint caused principally by actions of third party outside the control or direction of the company,"Credit Karma, Inc.",CA,93021,Web,11/29/2015,Closed with explanation,Yes,,1674685
+11/28/2015,Debt collection,,Communication tactics,Frequent or repeated calls,,,"Expert Global Solutions, Inc.",PR,007XX,Web,11/28/2015,In progress,Yes,,1674495
+11/28/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Credit Solutions, LLC (KY)",MI,48341,Web,11/28/2015,Closed with explanation,Yes,,1674464
+11/28/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,Company believes complaint caused principally by actions of third party outside the control or direction of the company,"LPH, Inc.",MT,597XX,Web,11/28/2015,Closed with explanation,Yes,,1674497
+11/28/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,Company believes the complaint is the result of a misunderstanding,"Hunter Warfield, Inc.",TX,750XX,Web,11/28/2015,Closed with explanation,Yes,,1674616
+11/28/2015,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Navy FCU,MD,20695,Web,11/28/2015,In progress,Yes,,1674289
+11/28/2015,Consumer loan,Vehicle loan,Taking out the loan or lease,,,,Navy FCU,CO,809XX,Web,11/28/2015,In progress,Yes,,1674408
+11/27/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,,"Dynamic Recovery Solutions, LLC",OH,44720,Web,11/27/2015,Closed with non-monetary relief,Yes,,1673466
+11/27/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,Ally Financial Inc.,DE,19701,Referral,11/30/2015,In progress,Yes,,1673856
+11/27/2015,Debt collection,Credit card,Taking/threatening an illegal action,Threatened to sue on too old debt,,Company believes it acted appropriately as authorized by contract or law,"Capital Management Services, LP",FL,330XX,Web,11/27/2015,Closed,Yes,,1673918
+11/27/2015,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Frequent or repeated calls,,,"Amsher Collection Services, Inc.",VA,221XX,Web,11/27/2015,In progress,Yes,,1673898
+11/27/2015,Debt collection,,Disclosure verification of debt,Right to dispute notice not received,,,Transworld Systems Inc.,TX,770XX,Web,11/27/2015,In progress,Yes,,1674114
+11/27/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,Ally Financial Inc.,AZ,856XX,Web,11/27/2015,In progress,Yes,,1673859
+11/27/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,,Quality Asset Recovery LLC,NJ,080XX,Web,11/27/2015,Closed with non-monetary relief,Yes,,1673328
+11/27/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,,Company believes it acted appropriately as authorized by contract or law,"HCFS Health Care Financial Services, Inc.",FL,333XX,Web,11/28/2015,Closed with explanation,Yes,,1674302
+11/27/2015,Consumer loan,Vehicle loan,Problems when you are unable to pay,,,,Ally Financial Inc.,IN,463XX,Web,11/27/2015,In progress,Yes,,1673996
+11/27/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,"Expert Global Solutions, Inc.",PA,193XX,Web,11/27/2015,In progress,Yes,,1674327
+11/27/2015,Debt collection,Federal student loan,False statements or representation,Attempted to collect wrong amount,,,Transworld Systems Inc.,VA,229XX,Web,11/28/2015,In progress,Yes,,1674382
+11/27/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,,Transworld Systems Inc.,MI,48334,Web,11/28/2015,In progress,Yes,,1674367
+11/27/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,"Hunter Warfield, Inc.",DC,20024,Web,11/27/2015,In progress,Yes,,1674072
+11/26/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,"JH Portfolio Debt Equities, LLC",IL,60087,Web,11/27/2015,Closed,Yes,,1673300
+11/26/2015,Consumer loan,Vehicle lease,Managing the loan or lease,,,,Nissan Motor Acceptance Corporation,OH,432XX,Web,11/27/2015,In progress,Yes,,1673304
+11/25/2015,Bank account or service,Checking account,Deposits and withdrawals,,,,Navy FCU,GU,96915,Referral,11/27/2015,In progress,Yes,,1671912
+11/25/2015,Credit reporting,,Incorrect information on credit report,Personal information,,Company believes complaint caused principally by actions of third party outside the control or direction of the company,"Credit Karma, Inc.",CA,93710,Web,11/25/2015,Closed with explanation,Yes,,1671523
+11/25/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,NJ,089XX,Web,11/25/2015,In progress,Yes,,1671530
+11/25/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,CA,91745,Web,11/25/2015,Closed with explanation,Yes,Yes,1671320
+11/25/2015,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,FL,33442,Web,11/25/2015,Closed with explanation,Yes,,1671701
+11/25/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not disclosed as an attempt to collect,,,Armcon Corp,CA,92254,Web,11/26/2015,Closed,Yes,,1672930
+11/25/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",,,,JPMorgan Chase,NY,10550,Phone,11/27/2015,Closed with explanation,Yes,,1671566
+11/25/2015,Mortgage,Home equity loan or line of credit,Settlement process and costs,,,,Ditech Financial LLC,NC,285XX,Web,11/25/2015,Closed with explanation,Yes,,1672960
+11/25/2015,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Equifax,FL,33415,Web,11/25/2015,Closed with explanation,Yes,,1672917
+11/25/2015,Mortgage,Conventional fixed mortgage,Settlement process and costs,,,,Atlantic Pacific Mortgage Corporation,VA,242XX,Web,11/25/2015,In progress,Yes,,1671825
+11/25/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,"FNIS (Fidelity National Information Services, Inc.)",CA,90007,Web,11/25/2015,In progress,Yes,,1671693
+11/25/2015,Credit reporting,,Incorrect information on credit report,Public record,,,First Advantage Corporation,NJ,089XX,Web,11/25/2015,Closed with explanation,Yes,,1672685
+11/25/2015,Bank account or service,Savings account,Deposits and withdrawals,,,,Ally Financial Inc.,AZ,853XX,Web,11/25/2015,In progress,Yes,,1671753
+11/25/2015,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Goldman Sachs Bank USA,IL,604XX,Web,11/25/2015,In progress,Yes,,1671834
+11/25/2015,Debt collection,Medical,Improper contact or sharing of info,Contacted me after I asked not to,,,Louisiana Recovery Services Inc.,TX,770XX,Web,11/25/2015,Closed with explanation,Yes,,1672024
+11/25/2015,Debt collection,,Improper contact or sharing of info,Contacted me after I asked not to,,,Ally Financial Inc.,GA,300XX,Web,11/25/2015,In progress,Yes,,1672046
+11/25/2015,Money transfers,International money transfer,Fraud or scam,,,,Navy FCU,FL,336XX,Web,11/25/2015,In progress,Yes,,1671928
+11/25/2015,Debt collection,,Taking/threatening an illegal action,Threatened arrest/jail if do not pay,,Company believes it acted appropriately as authorized by contract or law,"Solutions To Portfolios, LLC",TX,751XX,Web,11/25/2015,Closed with explanation,Yes,Yes,1672124
+11/25/2015,Consumer loan,Vehicle loan,Shopping for a loan or lease,,,,Ally Financial Inc.,NC,271XX,Web,11/25/2015,In progress,Yes,,1673161
+11/25/2015,Money transfers,Domestic (US) money transfer,Money was not available when promised,,,,MoneyGram,NC,283XX,Web,11/25/2015,In progress,Yes,,1672470
+11/25/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,"Bayview Loan Servicing, LLC",GA,303XX,Web,11/25/2015,In progress,Yes,,1671281
+11/25/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",,,Company chooses not to provide a public response,Santander Bank US,MA,2047,Referral,11/30/2015,Closed,Yes,,1672093
+11/25/2015,Payday loan,,Can't stop charges to bank account,,,,Speedy Cash Holdings,TX,77081,Web,11/26/2015,Closed with explanation,Yes,Yes,1673063
+11/24/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",,,,Ally Financial Inc.,MD,20886,Referral,11/25/2015,In progress,Yes,,1669437
+11/24/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,SC,295XX,Web,11/24/2015,Closed with explanation,Yes,,1669380
+11/24/2015,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Equifax,CA,94526,Web,11/24/2015,Closed with explanation,Yes,Yes,1669395
+11/24/2015,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Equifax,FL,349XX,Web,11/24/2015,Closed with explanation,Yes,,1669463
+11/24/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,Company chooses not to provide a public response,Access Receivables Management,FL,33810,Web,11/24/2015,Closed with explanation,Yes,,1671226
+11/24/2015,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Called after sent written cease of comm,,Company believes it acted appropriately as authorized by contract or law,"ATG Credit, LLC",IL,600XX,Web,11/24/2015,Closed with explanation,Yes,,1670726
+11/24/2015,Debt collection,Medical,Disclosure verification of debt,Not given enough info to verify debt,,Company believes the complaint is the result of a misunderstanding,"California Business Bureau, Inc.",CA,92108,Web,11/24/2015,Closed with explanation,Yes,,1669629
+11/24/2015,Credit reporting,,Incorrect information on credit report,Account status,,Company chooses not to provide a public response,TransUnion,SC,294XX,Web,11/24/2015,Closed with non-monetary relief,Yes,,1670889
+11/24/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,,Company disputes the facts presented in the complaint,"Southern Oregon Credit Service, Inc.",OR,97527,Web,11/24/2015,Closed with explanation,Yes,Yes,1669924
+11/24/2015,Bank account or service,Checking account,"Account opening, closing, or management",,,,Navy FCU,CA,940XX,Web,11/24/2015,In progress,Yes,,1670937
+11/24/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,TN,38025,Postal mail,11/24/2015,Closed with explanation,Yes,,1669839
+11/24/2015,Credit reporting,,Incorrect information on credit report,Account status,,Company chooses not to provide a public response,TransUnion,,306XX,Web,11/24/2015,Closed with explanation,Yes,,1669439
+11/24/2015,Credit reporting,,Incorrect information on credit report,Account status,,Company chooses not to provide a public response,TransUnion,,91764,Web,11/24/2015,Closed with explanation,Yes,,1669442
+11/24/2015,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Equifax,IN,462XX,Web,11/24/2015,Closed with explanation,Yes,,1669665
+11/24/2015,Debt collection,"Other (phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,,,"NCC Business Services, Inc.",NV,89129,Web,11/24/2015,In progress,Yes,,1670780
+11/24/2015,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,Equifax,GA,300XX,Web,11/24/2015,Closed with explanation,Yes,,1671010
+11/24/2015,Debt collection,,Communication tactics,Frequent or repeated calls,,Company believes it acted appropriately as authorized by contract or law,"Enhanced Recovery Company, LLC",NJ,7724,Web,11/24/2015,Closed with non-monetary relief,Yes,,1670013
+11/24/2015,Credit card,,APR or interest rate,,,,JPMorgan Chase,MI,494XX,Web,11/24/2015,Closed with explanation,Yes,Yes,1669685
+11/24/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,CA,91942,Web,11/24/2015,Closed with non-monetary relief,Yes,Yes,1670436
+11/24/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,MA,1030,Web,11/24/2015,Closed with explanation,Yes,,1671009
+11/24/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,MA,1020,Web,11/24/2015,Closed with explanation,Yes,,1670616
+11/24/2015,Debt collection,,Improper contact or sharing of info,Talked to a third party about my debt,,,"Dynamic Recovery Solutions, LLC",MA,023XX,Web,11/24/2015,Closed with non-monetary relief,Yes,,1670110
+11/24/2015,Debt collection,Medical,Communication tactics,Frequent or repeated calls,,,Bonneville Billing and Collections,ID,83705,Web,11/24/2015,Closed with explanation,Yes,,1669960
+11/24/2015,Credit card,,Other,,,,Amex,SD,574XX,Web,11/24/2015,Closed with explanation,Yes,,1669408
+11/24/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,JPMorgan Chase,NC,27518,Web,11/24/2015,Closed with explanation,Yes,Yes,1670075
+11/24/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,IL,60563,Web,11/24/2015,Closed with explanation,Yes,,1670856
+11/24/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,CA,941XX,Web,11/24/2015,Closed with explanation,Yes,,1670953
+11/24/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,MA,1501,Web,11/25/2015,Closed with explanation,Yes,,1671502
+11/24/2015,Credit reporting,,Incorrect information on credit report,Public record,,Company chooses not to provide a public response,TransUnion,OH,432XX,Web,11/24/2015,Closed with explanation,Yes,,1670214
+11/24/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,MD,21774,Web,11/25/2015,Closed with explanation,Yes,,1671507
+11/24/2015,Credit reporting,,Incorrect information on credit report,Account terms,,Company chooses not to provide a public response,TransUnion,MI,494XX,Web,11/24/2015,Closed with explanation,Yes,,1670191
+11/24/2015,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,Equifax,LA,71203,Web,11/25/2015,Closed with explanation,Yes,,1671251
+11/24/2015,Debt collection,Payday loan,False statements or representation,Indicated committed crime not paying,,,"Check into Cash, Inc.",MI,486XX,Web,11/24/2015,Closed with explanation,Yes,,1670301
+11/24/2015,Bank account or service,Checking account,Deposits and withdrawals,,,,Navy FCU,NJ,7018,Referral,11/24/2015,In progress,Yes,,1669409
+11/24/2015,Credit card,,Identity theft / Fraud / Embezzlement,,,Company chooses not to provide a public response,Barclays,DC,200XX,Web,11/24/2015,Closed with monetary relief,Yes,,1670270
+11/24/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,MI,48033,Web,11/24/2015,Closed with explanation,Yes,,1669626
+11/24/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,,Gila LLC,TX,787XX,Web,11/24/2015,Closed with explanation,Yes,,1670286
+11/24/2015,Debt collection,Medical,Disclosure verification of debt,Not given enough info to verify debt,,,"Mountain Land Collections, Inc.",UT,84057,Web,11/24/2015,In progress,Yes,,1669627
+11/24/2015,Consumer loan,Vehicle lease,Taking out the loan or lease,,,,Nissan Motor Acceptance Corporation,CA,902XX,Web,11/24/2015,In progress,Yes,,1670437
+11/24/2015,Credit card,,Rewards,,,,JPMorgan Chase,TX,75057,Web,11/25/2015,Closed with explanation,Yes,,1671494
+11/24/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,WY,828XX,Web,11/24/2015,Closed with explanation,Yes,Yes,1671004
+11/24/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,,Transworld Systems Inc.,NY,11221,Postal mail,11/30/2015,In progress,Yes,,1669664
+11/24/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,OH,452XX,Web,11/24/2015,Closed with explanation,Yes,,1670395
+11/24/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,OH,45640,Web,11/24/2015,Closed with explanation,Yes,,1669635
+11/24/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,PR,006XX,Web,11/24/2015,Closed with explanation,Yes,,1670581
+11/24/2015,Debt collection,"Other (phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,,Company believes it acted appropriately as authorized by contract or law,The TRAF Group,PA,150XX,Web,11/24/2015,Closed with explanation,Yes,,1670485
+11/24/2015,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,Company chooses not to provide a public response,SunTrust Bank,WI,532XX,Web,11/25/2015,Closed with explanation,Yes,,1671254
+11/24/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,MA,1020,Web,11/24/2015,Closed with explanation,Yes,,1670615
+11/24/2015,Bank account or service,Checking account,Problems caused by my funds being low,,,,JPMorgan Chase,AZ,850XX,Web,11/24/2015,Closed with monetary relief,Yes,,1670563
+11/24/2015,Debt collection,,Taking/threatening an illegal action,Attempted to/Collected exempt funds,,,"Premium Asset Services, LLC",NY,142XX,Web,11/25/2015,Closed with explanation,Yes,,1671463
+11/24/2015,Student loan,Non-federal student loan,Dealing with my lender or servicer,,,Company chooses not to provide a public response,Wells Fargo,TX,773XX,Web,11/24/2015,Closed with explanation,Yes,,1671361
+11/24/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,GA,300XX,Web,11/24/2015,Closed with explanation,Yes,,1670657
+11/24/2015,Money transfers,Domestic (US) money transfer,Fraud or scam,,,,MoneyGram,CA,950XX,Web,11/24/2015,Closed with explanation,Yes,,1670693
+11/24/2015,Debt collection,Medical,False statements or representation,Attempted to collect wrong amount,,Company believes it acted appropriately as authorized by contract or law,"Herbert P. Sears Co., Inc.",CA,943XX,Web,11/25/2015,Closed with explanation,Yes,,1671424
+11/24/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,AZ,851XX,Web,11/25/2015,Closed with explanation,Yes,,1671458
+11/24/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,CA,953XX,Web,11/24/2015,In progress,Yes,,1670764
+11/24/2015,Credit reporting,,Credit reporting company's investigation,Investigation took too long,,,Equifax,OH,44143,Web,11/24/2015,Closed with explanation,Yes,,1670503
+11/24/2015,Debt collection,Payday loan,Disclosure verification of debt,Not given enough info to verify debt,,,CNG Financial Corporation,CA,91103,Web,11/24/2015,Closed with explanation,Yes,,1669874
+11/24/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,NC,27514,Web,11/24/2015,Closed with non-monetary relief,Yes,,1670044
+11/24/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,NY,11419,Web,11/24/2015,Closed with explanation,Yes,,1669978
+11/24/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Right to dispute notice not received,,Company believes complaint caused principally by actions of third party outside the control or direction of the company,Fidelity Information Corporation,AZ,85143,Web,11/24/2015,Closed with explanation,Yes,,1669804
+11/24/2015,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Flagstar Bank,FL,32792,Web,11/24/2015,In progress,Yes,,1670245
+11/24/2015,Debt collection,Medical,Taking/threatening an illegal action,Threatened arrest/jail if do not pay,,,"Health Services Asset Management, LLC.",MT,59601,Web,11/24/2015,Closed with explanation,Yes,,1670994
+11/24/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,MI,494XX,Web,11/24/2015,Closed with explanation,Yes,,1670192
+11/23/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,Company chooses not to provide a public response,"Progressive Financial Services, Inc.",MN,55767,Postal mail,11/25/2015,Closed with explanation,Yes,,1667671
+11/23/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,NY,10952,Web,11/23/2015,In progress,Yes,,1667415
+11/23/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,MI,482XX,Web,11/24/2015,Closed with explanation,Yes,Yes,1669475
+11/23/2015,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,Company chooses not to provide a public response,Citibank,CA,90042,Web,11/23/2015,Closed with explanation,Yes,Yes,1668764
+11/23/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,TN,38474,Web,11/23/2015,Closed with explanation,Yes,Yes,1667423
+11/23/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,FL,349XX,Web,11/23/2015,Closed with explanation,Yes,,1668216
+11/23/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,,Company chooses not to provide a public response,"American Collections Enterprise, Inc.",CA,93306,Referral,11/25/2015,Closed with explanation,Yes,,1668176
+11/23/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,TX,77450,Web,11/23/2015,Closed with explanation,Yes,,1667718
+11/23/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,PA,175XX,Web,11/23/2015,Closed with explanation,Yes,,1668278
+11/23/2015,Credit reporting,,Credit reporting company's investigation,Investigation took too long,,,Equifax,AZ,85295,Web,11/23/2015,Closed with explanation,Yes,,1668408
+11/23/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,Transworld Systems Inc.,TX,77808,Web,11/23/2015,In progress,Yes,,1667520
+11/23/2015,Credit reporting,,Incorrect information on credit report,Account terms,,Company chooses not to provide a public response,TransUnion,IL,615XX,Web,11/23/2015,Closed with explanation,Yes,Yes,1668231
+11/23/2015,Credit reporting,,Incorrect information on credit report,Account status,,Company chooses not to provide a public response,TransUnion,NY,11763,Web,11/23/2015,Closed with non-monetary relief,Yes,,1667426
+11/23/2015,Bank account or service,Checking account,"Account opening, closing, or management",,,,JPMorgan Chase,CA,93955,Referral,11/25/2015,Closed with explanation,Yes,,1669489
+11/23/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,FL,349XX,Web,11/23/2015,Closed with explanation,Yes,,1668217
+11/23/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,,,Equifax,NY,11953,Web,11/23/2015,Closed with explanation,Yes,Yes,1668787
+11/23/2015,Credit reporting,,Incorrect information on credit report,Public record,,Company chooses not to provide a public response,TransUnion,TX,77069,Web,11/23/2015,Closed with explanation,Yes,,1668636
+11/23/2015,Credit card,,Billing disputes,,,Company chooses not to provide a public response,Citibank,OH,436XX,Web,11/23/2015,Closed with non-monetary relief,Yes,Yes,1671216
+11/23/2015,Credit reporting,,Credit reporting company's investigation,Investigation took too long,,,Equifax,AZ,85295,Web,11/23/2015,Closed with explanation,Yes,,1668405
+11/23/2015,Mortgage,Other mortgage,Other,,,,"Bayview Loan Servicing, LLC",NY,11416,Referral,11/25/2015,In progress,Yes,,1667418
+11/23/2015,Mortgage,VA mortgage,"Loan servicing, payments, escrow account",,,Company chooses not to provide a public response,Wells Fargo,VA,201XX,Web,11/23/2015,Closed with explanation,Yes,Yes,1668397
+11/23/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,Company chooses not to provide a public response,"American Collections Enterprise, Inc.",MS,38683,Web,11/24/2015,Closed with explanation,Yes,,1669570
+11/23/2015,Bank account or service,Checking account,Problems caused by my funds being low,,,,The Huntington National Bank,IN,47725,Web,11/25/2015,In progress,Yes,,1668773
+11/23/2015,Mortgage,VA mortgage,"Loan servicing, payments, escrow account",,,Company chooses not to provide a public response,Wells Fargo,VA,201XX,Web,11/23/2015,Closed with explanation,Yes,,1668396
+11/23/2015,Debt collection,Medical,False statements or representation,Attempted to collect wrong amount,,Company believes it acted appropriately as authorized by contract or law,Medical Business Bureau,CO,80701,Web,11/23/2015,Closed with explanation,Yes,,1668723
+11/23/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,Company believes it acted appropriately as authorized by contract or law,AmeriCollect,MS,38683,Web,11/24/2015,Closed with explanation,Yes,,1669571
+11/23/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,FL,349XX,Web,11/23/2015,Closed with explanation,Yes,,1668218
+11/23/2015,Debt collection,Medical,False statements or representation,Attempted to collect wrong amount,,,Transworld Systems Inc.,MD,21230,Fax,11/30/2015,In progress,Yes,,1667915
+11/23/2015,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,JPMorgan Chase,TX,77410,Web,11/23/2015,Closed with explanation,Yes,,1667393
+11/23/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,"Bayview Loan Servicing, LLC",NY,117XX,Web,11/23/2015,In progress,Yes,,1668622
+11/23/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,Company believes it acted appropriately as authorized by contract or law,"The CMI Group, Inc.",GA,30907,Web,11/24/2015,Closed with non-monetary relief,Yes,,1669559
+11/23/2015,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,Equifax,GA,30324,Web,11/23/2015,In progress,Yes,,1667438
+11/23/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,TX,765XX,Web,11/23/2015,In progress,Yes,,1668605
+11/23/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,WA,98370,Web,11/24/2015,Closed with explanation,Yes,,1669582
+11/23/2015,Credit reporting,,Incorrect information on credit report,Personal information,,,Equifax,PA,15146,Web,11/24/2015,Closed with explanation,Yes,,1669607
+11/23/2015,Credit card,,Advertising and marketing,,,,Amex,FL,327XX,Web,11/23/2015,Closed with explanation,Yes,,1668464
+11/23/2015,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Bank of America,GA,31210,Web,11/23/2015,In progress,Yes,,1669331
+11/23/2015,Credit reporting,,Credit reporting company's investigation,Investigation took too long,,,Equifax,MD,21117,Web,11/23/2015,In progress,Yes,,1667770
+11/23/2015,Student loan,Non-federal student loan,Getting a loan,,,Company chooses not to provide a public response,Wells Fargo,NJ,083XX,Web,11/23/2015,Closed with explanation,Yes,Yes,1669481
+11/23/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,,"Phoenix Health Care Management Services, Inc.",GA,31602,Web,11/23/2015,Closed with explanation,Yes,,1668692
+11/23/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,,"Asset Management Outsourcing, Inc.",FL,333XX,Web,11/23/2015,Closed with explanation,Yes,Yes,1670887
+11/23/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,,Company chooses not to provide a public response,TransUnion,OH,44105,Web,11/23/2015,Closed with non-monetary relief,Yes,,1668156
+11/23/2015,Credit reporting,,Incorrect information on credit report,Account status,,Company chooses not to provide a public response,TransUnion,AZ,853XX,Web,11/23/2015,Closed with explanation,Yes,,1668718
+11/23/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,,,Equifax,NY,11953,Web,11/23/2015,Closed with explanation,Yes,Yes,1668786
+11/23/2015,Money transfers,Domestic (US) money transfer,Money was not available when promised,,,,Western Union,AK,995XX,Web,11/23/2015,Closed with explanation,Yes,,1668673
+11/23/2015,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,Company chooses not to provide a public response,U.S. Bancorp,MO,64070,Web,11/23/2015,Closed with explanation,Yes,,1667357
+11/23/2015,Payday loan,,Charged fees or interest I didn't expect,,,Company believes it acted appropriately as authorized by contract or law,"CashCall, Inc.",CA,921XX,Web,11/23/2015,Closed with explanation,Yes,,1669484
+11/23/2015,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,Company chooses not to provide a public response,Wells Fargo,NY,11553,Web,11/23/2015,Closed with explanation,Yes,,1669476
+11/23/2015,Debt collection,Medical,Disclosure verification of debt,Not given enough info to verify debt,,Company chooses not to provide a public response,"ProCollect, Inc",TX,751XX,Web,11/24/2015,Closed with explanation,Yes,,1669594
+11/23/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,"Convergent Resources, Inc.",VA,22407,Referral,11/25/2015,Closed with explanation,Yes,,1668798
+11/23/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,MI,482XX,Web,11/24/2015,Closed with explanation,Yes,Yes,1669466
+11/23/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,Convergys,FL,32222,Web,11/23/2015,In progress,Yes,,1668780
+11/23/2015,Consumer loan,Vehicle loan,Problems when you are unable to pay,,,,Navy FCU,VA,236XX,Web,11/24/2015,In progress,Yes,,1669577
+11/23/2015,Consumer loan,Vehicle loan,Taking out the loan or lease,,,,Navy FCU,AZ,85246,Web,11/23/2015,In progress,Yes,,1668571
+11/23/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,,,Transworld Systems Inc.,FL,333XX,Web,11/24/2015,In progress,Yes,,1669565
+11/23/2015,Bank account or service,Cashing a check without an account,Deposits and withdrawals,,,Company chooses not to provide a public response,Wells Fargo,PA,191XX,Web,11/24/2015,Closed with explanation,Yes,,1670916
+11/23/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,JPMorgan Chase,TX,773XX,Web,11/24/2015,Closed with explanation,Yes,,1671014
+11/23/2015,Bank account or service,Checking account,"Making/receiving payments, sending money",,,,JPMorgan Chase,CA,900XX,Web,11/24/2015,Closed with explanation,Yes,,1670912
+11/23/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,Company can't verify or dispute the facts in the complaint,"CCS Financial Services, Inc.",OR,97306,Referral,11/30/2015,Closed with explanation,Yes,,1668349
+11/23/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,"SKO Brenner American, Inc.",PA,191XX,Web,11/25/2015,Closed with explanation,Yes,,1667893
+11/23/2015,Credit reporting,,Incorrect information on credit report,Personal information,,,Equifax,CA,92227,Web,11/23/2015,Closed with explanation,Yes,,1667527
+11/23/2015,Credit reporting,,Incorrect information on credit report,Account status,,,"Early Warning Services, LLC",GA,30045,Web,11/23/2015,Closed with explanation,Yes,Yes,1667371
+11/23/2015,Debt collection,Non-federal student loan,Cont'd attempts collect debt not owed,Debt was discharged in bankruptcy,,,Transworld Systems Inc.,MO,64093,Phone,11/30/2015,In progress,Yes,,1668414
+11/23/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,IL,61021,Web,11/23/2015,Closed with explanation,Yes,,1667773
+11/23/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,VA,23002,Web,11/23/2015,In progress,Yes,,1668706
+11/23/2015,Debt collection,Auto,Communication tactics,Used obscene/profane/abusive language,,Company chooses not to provide a public response,"American Collections Enterprise, Inc.",MD,20772,Web,11/23/2015,Closed with explanation,Yes,,1668417
+11/23/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Equifax,WA,98133,Web,11/24/2015,Closed with explanation,Yes,,1669339
+11/23/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,,,Transworld Systems Inc.,FL,33145,Phone,11/27/2015,In progress,Yes,,1667808
+11/23/2015,Debt collection,Medical,Disclosure verification of debt,Right to dispute notice not received,,Company chooses not to provide a public response,"WAKEFIELD & ASSOCIATES, INC.",CO,80044,Web,11/23/2015,Closed with explanation,Yes,Yes,1668845
+11/23/2015,Debt collection,Medical,Disclosure verification of debt,Not given enough info to verify debt,,,"SCA Collections, Inc.",NM,87529,Web,11/23/2015,Closed with explanation,Yes,,1667325
+11/23/2015,Debt collection,,Communication tactics,Frequent or repeated calls,,Company believes it acted appropriately as authorized by contract or law,Penn Credit Corporation,NJ,8043,Phone,11/25/2015,Closed with explanation,Yes,,1667634
+11/23/2015,Debt collection,,Communication tactics,Frequent or repeated calls,,Company believes it acted appropriately as authorized by contract or law,"Maury Cobb, Attorney at Law, LLC",CO,80634,Web,11/23/2015,Closed with explanation,Yes,,1667877
+11/23/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,GA,30045,Web,11/23/2015,Closed with explanation,Yes,,1667368
+11/23/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Franklin Collection Service, Inc.",MI,494XX,Web,11/23/2015,Closed with explanation,Yes,,1668145
+11/23/2015,Credit reporting,,Incorrect information on credit report,Personal information,,Company chooses not to provide a public response,TransUnion,NY,104XX,Web,11/23/2015,Closed with non-monetary relief,Yes,,1667535
+11/23/2015,Credit card,,Late fee,,,,Discover,CA,930XX,Web,11/23/2015,Closed with explanation,Yes,,1667375
+11/23/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,Company chooses not to provide a public response,TransUnion,IL,62002,Web,11/23/2015,Closed with non-monetary relief,Yes,,1668849
+11/23/2015,Payday loan,,Charged bank acct wrong day or amt,,,,Speedy Cash Holdings,TX,750XX,Web,11/23/2015,Closed with explanation,Yes,,1667777
+11/23/2015,Consumer loan,Installment loan,Problems when you are unable to pay,,,Company believes it acted appropriately as authorized by contract or law,"CashCall, Inc.",TX,750XX,Web,11/23/2015,Closed with explanation,Yes,,1669461
+11/23/2015,Consumer loan,Vehicle lease,Taking out the loan or lease,,,,Ally Financial Inc.,NY,145XX,Web,11/23/2015,In progress,Yes,,1667876
+11/23/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,IL,601XX,Web,11/23/2015,Closed with explanation,Yes,,1667849
+11/23/2015,Debt collection,Medical,Communication tactics,Frequent or repeated calls,,Company believes it acted appropriately as authorized by contract or law,"JP Recovery Services, Inc.",MI,483XX,Web,11/23/2015,Closed,Yes,,1668119
+11/23/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,"United Collection Bureau, Inc.",NY,109XX,Web,11/23/2015,Closed with explanation,Yes,,1667935
+11/23/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,NJ,070XX,Web,11/23/2015,Closed with explanation,Yes,,1668051
+11/23/2015,Credit reporting,,Incorrect information on credit report,Personal information,,Company chooses not to provide a public response,TransUnion,TX,770XX,Web,11/23/2015,Closed with explanation,Yes,,1667965
+11/23/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,FL,329XX,Web,11/23/2015,Closed with explanation,Yes,,1667952
+11/22/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Equifax,WA,98374,Web,11/22/2015,Closed with explanation,Yes,,1667259
+11/22/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,VA,20175,Web,11/22/2015,Closed with explanation,Yes,,1667283
+11/22/2015,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Threatened to take legal action,,,Transworld Systems Inc.,FL,32931,Web,11/23/2015,In progress,Yes,,1667482
+11/22/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Equifax,WA,98374,Web,11/22/2015,Closed with explanation,Yes,,1667260
+11/22/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,NY,11550,Web,11/22/2015,In progress,Yes,,1667272
+11/22/2015,Money transfers,International money transfer,Fraud or scam,,,,Xoom,MA,027XX,Web,11/25/2015,Closed with explanation,Yes,,1667132
+11/22/2015,Credit reporting,,Incorrect information on credit report,Account status,,Company chooses not to provide a public response,TransUnion,VA,23504,Web,11/22/2015,Closed with explanation,Yes,,1667186
+11/22/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Equifax,WA,98374,Web,11/22/2015,Closed with explanation,Yes,,1667257
+11/22/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Equifax,WA,98374,Web,11/22/2015,Closed with explanation,Yes,,1667258
+11/22/2015,Debt collection,Auto,Cont'd attempts collect debt not owed,Debt is not mine,,,Ally Financial Inc.,TX,77062,Web,11/25/2015,In progress,Yes,,1667293
+11/22/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,TX,77017,Web,11/23/2015,In progress,Yes,,1667499
+11/22/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,VA,23504,Web,11/22/2015,Closed with explanation,Yes,Yes,1667187
+11/22/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,IA,50010,Web,11/22/2015,Closed with explanation,Yes,,1667233
+11/22/2015,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,NV,89445,Web,11/22/2015,Closed with explanation,Yes,,1667216
+11/22/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Equifax,WA,98374,Web,11/22/2015,Closed with explanation,Yes,,1667263
+11/22/2015,Credit reporting,,Incorrect information on credit report,Personal information,,Company chooses not to provide a public response,TransUnion,VA,24502,Web,11/22/2015,Closed with non-monetary relief,Yes,,1667143
+11/22/2015,Bank account or service,Checking account,"Account opening, closing, or management",,,Company chooses not to provide a public response,Wells Fargo,NV,89121,Web,11/22/2015,Closed with non-monetary relief,Yes,,1667300
+11/22/2015,Mortgage,Conventional fixed mortgage,Settlement process and costs,,,,Ocwen,GA,30052,Web,11/22/2015,Closed with explanation,Yes,,1667316
+11/22/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Equifax,WA,98374,Web,11/22/2015,Closed with explanation,Yes,,1667262
+11/22/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Equifax,WA,98374,Web,11/22/2015,Closed with explanation,Yes,,1667264
+11/22/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Equifax,WA,98374,Web,11/22/2015,Closed with explanation,Yes,,1667265
+11/22/2015,Consumer loan,Vehicle loan,Taking out the loan or lease,,,,American Honda Finance Corporation,TX,78526,Web,11/23/2015,Closed with explanation,Yes,,1667503
+11/22/2015,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,,Company believes it acted appropriately as authorized by contract or law,"CL Holdings, LLC",WA,98253,Web,11/22/2015,Closed with explanation,Yes,,1667129
+11/22/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,IA,50010,Web,11/22/2015,Closed with non-monetary relief,Yes,,1667235
+11/22/2015,Credit card,,Billing disputes,,,,JPMorgan Chase,NY,10010,Web,11/22/2015,Closed with explanation,Yes,,1667310
+11/22/2015,Credit reporting,,Incorrect information on credit report,Personal information,,,Equifax,GA,30815,Web,11/22/2015,Closed with explanation,Yes,,1667182
+11/22/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Equifax,WA,98374,Web,11/22/2015,Closed with explanation,Yes,,1667261
+11/22/2015,Credit reporting,,Credit monitoring or identity protection,Problem cancelling or closing account,,,TransUnion,CA,92658,Web,11/22/2015,In progress,Yes,,1667097
+11/22/2015,Mortgage,Home equity loan or line of credit,Credit decision / Underwriting,,,Company chooses not to provide a public response,U.S. Bancorp,MN,55447,Web,11/23/2015,Closed with explanation,Yes,Yes,1667203
+11/22/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Right to dispute notice not received,,Company believes it acted appropriately as authorized by contract or law,"GLA Collection Company, Inc.",IN,479XX,Web,11/22/2015,Closed with explanation,Yes,,1667202
+11/22/2015,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,Equifax,MD,20716,Web,11/23/2015,In progress,Yes,,1667386
+11/22/2015,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,Company chooses not to provide a public response,Wells Fargo,TX,78255,Web,11/23/2015,Closed with explanation,Yes,,1667492
+11/22/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,Company chooses not to provide a public response,TransUnion,MO,65679,Web,11/22/2015,Closed with non-monetary relief,Yes,,1667210
+11/22/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,NM,875XX,Web,11/22/2015,Closed with explanation,Yes,,1667095
+11/22/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Equifax,WA,98374,Web,11/22/2015,Closed with explanation,Yes,,1667266
+11/22/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,American Coradius International LLC,GA,301XX,Web,11/22/2015,Closed with explanation,Yes,,1667177
+11/22/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,,,"Credit Systems International, Inc.",TX,76692,Web,11/22/2015,Closed with explanation,Yes,,1667219
+11/22/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,TX,786XX,Web,11/22/2015,Closed with explanation,Yes,,1667317
+11/22/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,MD,207XX,Web,11/22/2015,In progress,Yes,,1667278
+11/22/2015,Credit reporting,,Credit reporting company's investigation,Investigation took too long,,Company chooses not to provide a public response,TransUnion,PA,191XX,Web,11/22/2015,Closed with explanation,Yes,,1667137
+11/22/2015,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,Equifax,NC,282XX,Web,11/22/2015,In progress,Yes,,1667076
+11/22/2015,Credit reporting,,Credit monitoring or identity protection,Problem with fraud alerts,,Company chooses not to provide a public response,TransUnion,CA,910XX,Web,11/22/2015,Closed with explanation,Yes,,1667295
+11/22/2015,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,PNC Bank,IL,605XX,Web,11/22/2015,Closed with explanation,Yes,,1667082
+11/22/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,Company believes it acted appropriately as authorized by contract or law,"First National Collection Bureau, Inc.",TN,376XX,Web,11/22/2015,Closed with explanation,Yes,,1667172
+11/22/2015,Debt collection,Credit card,Taking/threatening an illegal action,Threatened to sue on too old debt,,Company chooses not to provide a public response,U.S. Bancorp,MN,553XX,Web,11/23/2015,Closed with explanation,Yes,,1667487
+11/22/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,NM,871XX,Web,11/22/2015,Closed with explanation,Yes,,1667207
+11/22/2015,Credit reporting,,Credit reporting company's investigation,Investigation took too long,,Company chooses not to provide a public response,TransUnion,PA,191XX,Web,11/22/2015,Closed with explanation,Yes,,1667286
+11/22/2015,Credit card,,Customer service / Customer relations,,,Company chooses not to provide a public response,Citibank,WA,980XX,Web,11/22/2015,Closed with explanation,Yes,,1667223
+11/22/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,GA,300XX,Web,11/22/2015,Closed with non-monetary relief,Yes,,1667309
+11/22/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Right to dispute notice not received,,Company disputes the facts presented in the complaint,"The CMI Group, Inc.",OH,441XX,Web,11/22/2015,Closed with non-monetary relief,Yes,,1667224
+11/22/2015,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,JPMorgan Chase,CA,950XX,Web,11/22/2015,Closed with explanation,Yes,Yes,1667232
+11/22/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,NV,895XX,Web,11/22/2015,Closed with explanation,Yes,,1667228
+11/22/2015,Debt collection,Non-federal student loan,Cont'd attempts collect debt not owed,Debt was discharged in bankruptcy,,,"Convergent Resources, Inc.",IA,516XX,Web,11/23/2015,Closed with explanation,Yes,Yes,1669403
+11/22/2015,Credit card,,Delinquent account,,,Company believes it acted appropriately as authorized by contract or law,Sterling Jewelers Inc.,KS,660XX,Web,11/23/2015,Closed with explanation,Yes,,1668826
+11/22/2015,Debt collection,Credit card,Taking/threatening an illegal action,Threatened to sue on too old debt,,Company believes it acted appropriately as authorized by contract or law,Rodenburg LLP,MN,553XX,Web,11/23/2015,Closed with explanation,Yes,,1667486
+11/22/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,OR,975XX,Web,11/23/2015,Closed with explanation,Yes,,1667506
+11/22/2015,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Equifax,SC,290XX,Web,11/23/2015,In progress,Yes,,1667437
+11/22/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,TX,770XX,Web,11/23/2015,Closed with explanation,Yes,,1667498
+11/22/2015,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,JPMorgan Chase,TX,774XX,Web,11/23/2015,In progress,Yes,,1667495
+11/22/2015,Credit card,,Sale of account,,,Company believes it acted appropriately as authorized by contract or law,Army and Air Force Exchange Service,AP,963XX,Web,11/23/2015,Closed with explanation,Yes,,1667493
+11/22/2015,Mortgage,Other mortgage,Settlement process and costs,,,,Ocwen,FL,327XX,Web,11/23/2015,Closed with explanation,Yes,,1667166
+11/21/2015,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Equifax,IL,61080,Web,11/21/2015,In progress,Yes,,1666654
+11/21/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,Company believes it acted appropriately as authorized by contract or law,Stellar Recovery Inc.,IL,60563,Web,11/22/2015,Closed with explanation,Yes,,1667274
+11/21/2015,Consumer loan,Installment loan,Problems when you are unable to pay,,,,Navy FCU,AL,361XX,Web,11/24/2015,In progress,Yes,,1666825
+11/21/2015,Debt collection,,Disclosure verification of debt,Right to dispute notice not received,,,"EOS Holdings, Inc.",MD,20716,Web,11/22/2015,Closed with explanation,Yes,Yes,1667079
+11/21/2015,Consumer loan,Vehicle loan,Problems when you are unable to pay,,,Company chooses not to provide a public response,"AFS Acceptance, LLC",AZ,85233,Web,11/21/2015,Closed with explanation,Yes,,1666839
+11/21/2015,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Used obscene/profane/abusive language,,Company believes it acted appropriately as authorized by contract or law,"Amsher Collection Services, Inc.",MO,647XX,Web,11/25/2015,Closed with explanation,Yes,,1666667
+11/21/2015,Credit reporting,,Credit monitoring or identity protection,Problem with fraud alerts,,,Equifax,CA,92658,Web,11/22/2015,Closed with explanation,Yes,Yes,1667096
+11/21/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,NM,87594,Web,11/22/2015,Closed with explanation,Yes,,1667099
+11/21/2015,Debt collection,,Disclosure verification of debt,Right to dispute notice not received,,Company believes complaint caused principally by actions of third party outside the control or direction of the company,"Kenneth, Eisen & Associates, Ltd.",AZ,851XX,Web,11/25/2015,Closed with explanation,Yes,,1666787
+11/21/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,Company believes it acted appropriately as authorized by contract or law,"McCarthy, Burgess & Wolff, Inc.",CA,96160,Web,11/21/2015,Closed with explanation,Yes,,1666831
+11/21/2015,Credit reporting,,Incorrect information on credit report,Public record,,Company chooses not to provide a public response,TransUnion,NM,87594,Web,11/22/2015,Closed with non-monetary relief,Yes,,1667100
+11/21/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,NY,11798,Web,11/21/2015,Closed with explanation,Yes,,1666940
+11/21/2015,Credit reporting,,Incorrect information on credit report,Account status,,,TransUnion,MD,21801,Web,11/22/2015,In progress,Yes,,1667091
+11/21/2015,Student loan,Non-federal student loan,Dealing with my lender or servicer,,,,Transworld Systems Inc.,CA,94551,Web,11/30/2015,In progress,Yes,,1666658
+11/21/2015,Debt collection,"Other (phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,,,"United Collection Bureau, Inc.",IN,46561,Web,11/21/2015,Closed with explanation,Yes,,1666861
+11/21/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,IA,50263,Web,11/21/2015,Closed with explanation,Yes,Yes,1666643
+11/21/2015,Credit card,,Credit card protection / Debt protection,,,Company chooses not to provide a public response,Citibank,TX,78617,Web,11/21/2015,Closed with explanation,Yes,,1666891
+11/21/2015,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Equifax,GA,31905,Web,11/21/2015,In progress,Yes,,1666816
+11/21/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,OR,97034,Web,11/21/2015,Closed with non-monetary relief,Yes,,1666954
+11/21/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company believes complaint caused principally by actions of third party outside the control or direction of the company,"Credit Karma, Inc.",FL,33063,Web,11/21/2015,Closed with explanation,Yes,,1666811
+11/21/2015,Credit reporting,,Incorrect information on credit report,Personal information,,,Equifax,MN,55439,Web,11/22/2015,Closed with explanation,Yes,Yes,1667123
+11/21/2015,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,Company chooses not to provide a public response,Flagstar Bank,MI,48602,Web,11/21/2015,Closed with explanation,Yes,,1666838
+11/21/2015,Consumer loan,Vehicle lease,Managing the loan or lease,,,,Ally Financial Inc.,NM,87120,Web,11/21/2015,In progress,Yes,,1666921
+11/21/2015,Mortgage,Other mortgage,Settlement process and costs,,,,Navy FCU,MD,21229,Web,11/21/2015,In progress,Yes,,1666903
+11/21/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,MD,20744,Web,11/21/2015,Closed with explanation,Yes,,1666642
+11/21/2015,Credit reporting,,Incorrect information on credit report,Public record,,Company chooses not to provide a public response,TransUnion,OH,454XX,Web,11/21/2015,Closed with explanation,Yes,,1666934
+11/21/2015,Debt collection,Medical,Communication tactics,Frequent or repeated calls,,Company believes it acted appropriately as authorized by contract or law,"Retrieval-Masters Creditors Bureau, Inc.",NC,27107,Web,11/23/2015,Closed with explanation,Yes,,1666841
+11/21/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,FL,33707,Web,11/21/2015,Closed with non-monetary relief,Yes,,1666968
+11/21/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,Company disputes the facts presented in the complaint,"Nationwide Credit & Collection, Inc.",IL,604XX,Web,11/21/2015,Closed with explanation,Yes,Yes,1666681
+11/21/2015,Bank account or service,Checking account,Deposits and withdrawals,,,Company chooses not to provide a public response,Wells Fargo,FL,342XX,Web,11/21/2015,Closed with explanation,Yes,,1666799
+11/21/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Ocwen,CA,954XX,Web,11/21/2015,Closed with explanation,Yes,,1666785
+11/21/2015,Credit card,,Transaction issue,,,,Amex,CO,801XX,Web,11/21/2015,Closed with explanation,Yes,,1666821
+11/21/2015,Bank account or service,Checking account,Problems caused by my funds being low,,,,JPMorgan Chase,FL,333XX,Web,11/21/2015,Closed with monetary relief,Yes,,1666935
+11/21/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,CA,926XX,Web,11/21/2015,In progress,Yes,,1666939
+11/21/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,Company chooses not to provide a public response,TransUnion,MN,550XX,Web,11/21/2015,Closed with explanation,Yes,,1666873
+11/21/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,Company chooses not to provide a public response,"Contract Callers, Inc.",GA,303XX,Web,11/21/2015,Closed,Yes,,1666871
+11/21/2015,Payday loan,,Charged fees or interest I didn't expect,,,Company believes it acted appropriately as authorized by contract or law,"Harpeth Financial Services, LLC",TN,370XX,Web,11/22/2015,Closed with explanation,Yes,,1667321
+11/21/2015,Credit reporting,,Incorrect information on credit report,Personal information,,,Equifax,NC,275XX,Web,11/21/2015,Closed with explanation,Yes,,1666847
+11/21/2015,Debt collection,Medical,False statements or representation,Attempted to collect wrong amount,,Company chooses not to provide a public response,DRS Financial LLC,NJ,083XX,Web,11/21/2015,Closed with explanation,Yes,,1666908
+11/21/2015,Credit reporting,,Incorrect information on credit report,Account terms,,Company chooses not to provide a public response,TransUnion,FL,342XX,Web,11/21/2015,Closed with explanation,Yes,,1666884
+11/21/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,SC,296XX,Web,11/21/2015,Closed with non-monetary relief,Yes,,1666885
+11/21/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Convergent Resources, Inc.",VA,220XX,Web,11/22/2015,Closed with explanation,Yes,,1667111
+11/21/2015,Mortgage,Home equity loan or line of credit,Settlement process and costs,,,,Flagstar Bank,MI,481XX,Web,11/23/2015,In progress,Yes,,1666840
+11/21/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,Santander Consumer USA,DE,197XX,Web,11/25/2015,Closed with explanation,Yes,,1666897
+11/20/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,WA,98902,Web,11/21/2015,Closed with explanation,Yes,,1666749
+11/20/2015,Bank account or service,Checking account,Deposits and withdrawals,,,,"Empowerment Ventures, LLC",PA,194XX,Web,11/24/2015,In progress,Yes,,1665116
+11/20/2015,Mortgage,Conventional fixed mortgage,Credit decision / Underwriting,,,,"Fay Servicing, LLC",NJ,7728,Web,11/25/2015,Closed with explanation,Yes,Yes,1664892
+11/20/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,"Caliber Home Loans, Inc",GA,30043,Web,11/20/2015,Closed with explanation,Yes,,1665373
+11/20/2015,Credit reporting,,Incorrect information on credit report,Public record,,,First Advantage Corporation,AZ,85138,Web,11/20/2015,In progress,Yes,,1665977
+11/20/2015,Student loan,Non-federal student loan,Dealing with my lender or servicer,,,,Navient,MA,2149,Web,11/20/2015,Closed with explanation,Yes,,1664844
+11/20/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,NH,3077,Referral,11/24/2015,Closed with explanation,Yes,,1664972
+11/20/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,AZ,85711,Postal mail,11/24/2015,In progress,Yes,,1666624
+11/20/2015,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,WA,98020,Web,11/20/2015,Closed with explanation,Yes,,1666087
+11/20/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,NJ,7208,Referral,11/23/2015,Closed with explanation,Yes,,1665314
+11/20/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,TX,79764,Web,11/20/2015,Closed with explanation,Yes,Yes,1664654
+11/20/2015,Credit reporting,,Credit monitoring or identity protection,Account terms and changes,,,Equifax,LA,71360,Web,11/24/2015,Closed with explanation,Yes,,1664633
+11/20/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,TX,762XX,Web,11/24/2015,In progress,Yes,,1665303
+11/20/2015,Debt collection,Credit card,Taking/threatening an illegal action,Threatened to sue on too old debt,,Company chooses not to provide a public response,"MSW Capital, LLC",NE,68516,Web,11/20/2015,Closed with explanation,Yes,,1665584
+11/20/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,"Bayview Loan Servicing, LLC",CA,95757,Web,11/25/2015,In progress,Yes,,1664661
+11/20/2015,Prepaid card,Payroll card,Fraud or scam,,,,"Empowerment Ventures, LLC",TX,751XX,Web,11/25/2015,In progress,Yes,,1666056
+11/20/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,"Conn's, Inc.",TX,75228,Web,11/25/2015,Closed with explanation,Yes,Yes,1666104
+11/20/2015,Credit card,,Rewards,,,,Amex,GA,30339,Referral,11/25/2015,Closed with explanation,Yes,Yes,1666692
+11/20/2015,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Equifax,MD,20895,Web,11/20/2015,Closed with explanation,Yes,Yes,1665854
+11/20/2015,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,"Select Portfolio Servicing, Inc",MD,21144,Web,11/20/2015,Closed with monetary relief,Yes,,1664596
+11/20/2015,Credit reporting,,Incorrect information on credit report,Personal information,,Company chooses not to provide a public response,TransUnion,CA,95358,Web,11/23/2015,Closed with non-monetary relief,Yes,,1666756
+11/20/2015,Prepaid card,Transit card,Unauthorized transactions/trans. issues,,,,"Empowerment Ventures, LLC",RI,029XX,Web,11/24/2015,In progress,Yes,,1665710
+11/20/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,,,Transworld Systems Inc.,NY,11550,Web,11/20/2015,In progress,Yes,,1665445
+11/20/2015,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,"Select Portfolio Servicing, Inc",TX,76086,Web,11/20/2015,Closed with explanation,Yes,,1665339
+11/20/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"GLENN ASSOCIATES MID-ATLANTIC, INC",NY,133XX,Web,11/25/2015,Closed with explanation,Yes,,1665146
+11/20/2015,Debt collection,,Disclosure verification of debt,Not given enough info to verify debt,,Company believes it acted appropriately as authorized by contract or law,"Eastern Account Systems of Connecticut, Inc.",NJ,8233,Postal mail,11/24/2015,Closed with explanation,Yes,,1665642
+11/20/2015,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,Company chooses not to provide a public response,Loan Care,WA,98662,Web,11/20/2015,Closed with explanation,Yes,,1665715
+11/20/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,NJ,7727,Web,11/21/2015,In progress,Yes,,1666765
+11/20/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,NY,11788,Referral,11/24/2015,Closed with explanation,Yes,,1665096
+11/20/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,,,Referral,11/24/2015,Closed with explanation,Yes,,1665293
+11/20/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,GA,30294,Web,11/21/2015,Closed with explanation,Yes,Yes,1666680
+11/20/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,IL,60641,Web,11/20/2015,Closed with explanation,Yes,,1666008
+11/20/2015,Debt collection,,Communication tactics,Frequent or repeated calls,,Company believes it acted appropriately as authorized by contract or law,"Enhanced Recovery Company, LLC",NE,69341,Web,11/20/2015,Closed with non-monetary relief,Yes,,1666039
+11/20/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,Company believes the complaint is the result of a misunderstanding,"Southwest Recovery Services, Inc.",AZ,85711,Phone,11/25/2015,Closed with explanation,Yes,,1665900
+11/20/2015,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,JPMorgan Chase,FL,34743,Web,11/21/2015,In progress,Yes,,1666729
+11/20/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,PA,19061,Web,11/24/2015,Closed with explanation,Yes,,1665033
+11/20/2015,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,Company chooses not to provide a public response,Loan Care,TX,75181,Web,11/20/2015,Closed with explanation,Yes,Yes,1665870
+11/20/2015,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,James B. Nutter & Company,CA,18466,Referral,11/30/2015,Closed with explanation,Yes,,1666952
+11/20/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,Experian,OR,97380,Web,11/21/2015,Closed with non-monetary relief,Yes,,1666771
+11/20/2015,Bank account or service,Checking account,Problems caused by my funds being low,,,,JPMorgan Chase,NJ,7422,Web,11/20/2015,Closed with explanation,Yes,,1664640
+11/20/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,"Select Portfolio Servicing, Inc",FL,333XX,Web,11/20/2015,Closed with explanation,Yes,,1664592
+11/20/2015,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,VI,802,Web,11/20/2015,Closed with explanation,Yes,,1665748
+11/20/2015,Credit card,,Billing statement,,,,Amex,TX,77077,Web,11/20/2015,Closed with monetary relief,Yes,Yes,1664984
+11/20/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"North Shore Agency, LLC",MA,2021,Phone,11/25/2015,Closed with explanation,Yes,,1665122
+11/20/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,TransUnion,FL,33025,Phone,11/23/2015,In progress,Yes,,1665276
+11/20/2015,Consumer loan,Vehicle lease,Managing the loan or lease,,,,Ally Financial Inc.,CA,91423,Web,11/20/2015,In progress,Yes,,1664834
+11/20/2015,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,CA,92694,Web,11/20/2015,Closed with explanation,Yes,,1665448
+11/20/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,WA,98513,Web,11/20/2015,Closed with explanation,Yes,,1665633
+11/20/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,IL,62966,Phone,11/24/2015,Closed with explanation,Yes,,1665461
+11/20/2015,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Frequent or repeated calls,,,"Pinnacle Credit Services, LLC",CO,80013,Referral,11/24/2015,Closed with explanation,Yes,,1665022
+11/20/2015,Credit reporting,,Incorrect information on credit report,Personal information,,,Equifax,MI,48240,Web,11/20/2015,Closed with explanation,Yes,,1666168
+11/20/2015,Credit card,,Other,,,,Amex,CA,92821,Referral,11/25/2015,Closed with explanation,Yes,,1665337
+11/20/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,JPMorgan Chase,PA,19079,Referral,11/24/2015,Closed with explanation,Yes,,1666017
+11/20/2015,Consumer loan,Vehicle lease,Managing the loan or lease,,,,Ocwen,WV,26241,Postal mail,11/25/2015,Closed with explanation,Yes,,1665788
+11/20/2015,Debt collection,Medical,Disclosure verification of debt,Right to dispute notice not received,,Company believes it acted appropriately as authorized by contract or law,"Capital Accounts, LLC",GA,30358,Referral,11/30/2015,Closed with explanation,Yes,,1665216
+11/20/2015,Credit reporting,,Incorrect information on credit report,Account status,,Company chooses not to provide a public response,TransUnion,MI,48224,Web,11/21/2015,Closed with explanation,Yes,,1666759
+11/20/2015,Money transfers,Domestic (US) money transfer,Fraud or scam,,,,MoneyGram,NY,10032,Phone,11/24/2015,In progress,Yes,,1665035
+11/20/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,Transworld Systems Inc.,MA,1605,Phone,11/24/2015,In progress,Yes,,1665543
+11/20/2015,Credit reporting,,Credit monitoring or identity protection,Problem with fraud alerts,,,Equifax,FL,32246,Fax,11/24/2015,Closed with explanation,Yes,,1666075
+11/20/2015,Mortgage,Reverse mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,TX,79936,Referral,11/24/2015,Closed with explanation,Yes,,1665352
+11/20/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,Ally Financial Inc.,IL,62223,Phone,11/25/2015,In progress,Yes,,1665822
+11/20/2015,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,CO,80015,Postal mail,11/24/2015,Closed with explanation,Yes,,1664907
+11/20/2015,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Frequent or repeated calls,,,Transworld Systems Inc.,CA,91745,Referral,11/24/2015,In progress,Yes,,1665235
+11/20/2015,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Equifax,IL,605XX,Web,11/20/2015,Closed with explanation,Yes,Yes,1665645
+11/20/2015,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,JPMorgan Chase,WV,25427,Web,11/20/2015,In progress,Yes,,1665825
+11/20/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,Company believes it acted appropriately as authorized by contract or law,"GLA Collection Company, Inc.",IN,46235,Web,11/20/2015,Closed with explanation,Yes,,1665442
+11/20/2015,Debt collection,Mortgage,Improper contact or sharing of info,Contacted me instead of my attorney,,,Ditech Financial LLC,TN,37217,Referral,11/24/2015,Closed with explanation,Yes,,1664908
+11/20/2015,Consumer loan,Installment loan,Managing the loan or lease,,,Company believes it acted appropriately as authorized by contract or law,"CashCall, Inc.",CA,90250,Web,11/20/2015,Closed with explanation,Yes,,1665866
+11/20/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Right to dispute notice not received,,Company chooses not to provide a public response,Southern Management Systems Inc.,VA,22311,Web,11/20/2015,Closed with explanation,Yes,,1665183
+11/20/2015,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,Equifax,,152XX,Web,11/20/2015,Closed with explanation,Yes,,1666049
+11/20/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,,"Mountain Land Collections, Inc.",UT,84047,Web,11/20/2015,Closed with explanation,Yes,,1665246
+11/20/2015,Credit reporting,,Incorrect information on credit report,Personal information,,,Equifax,TX,76244,Referral,11/24/2015,Closed with explanation,Yes,,1666065
+11/20/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Right to dispute notice not received,,Company chooses not to provide a public response,"Allied Collection Services, Inc. (Nevada)",CA,928XX,Web,11/20/2015,Closed with non-monetary relief,Yes,,1666071
+11/20/2015,Bank account or service,Checking account,"Making/receiving payments, sending money",,,,JPMorgan Chase,CA,95826,Web,11/20/2015,Closed with explanation,Yes,Yes,1665769
+11/20/2015,Mortgage,Conventional fixed mortgage,Settlement process and costs,,,,JPMorgan Chase,CA,92068,Phone,11/23/2015,In progress,Yes,,1666746
+11/20/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,"Caliber Home Loans, Inc",CA,916XX,Web,11/20/2015,Closed with explanation,Yes,,1666068
+11/20/2015,Credit reporting,,Credit monitoring or identity protection,Problem cancelling or closing account,,,Equifax,MD,20716,Web,11/21/2015,Closed with explanation,Yes,,1666767
+11/20/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,,Transworld Systems Inc.,NJ,7094,Referral,11/24/2015,In progress,Yes,,1665175
+11/20/2015,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,Equifax,MD,207XX,Web,11/20/2015,In progress,Yes,,1664568
+11/20/2015,Debt collection,,Communication tactics,Frequent or repeated calls,,,Oracle Financial Group LLC.,OK,73159,Web,11/20/2015,Closed,Yes,,1666335
+11/20/2015,Consumer loan,Vehicle loan,Problems when you are unable to pay,,,,Santander Consumer USA,NJ,7111,Web,11/20/2015,Closed with explanation,Yes,Yes,1665426
+11/20/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Right to dispute notice not received,,Company chooses not to provide a public response,"Sentry Recovery and Collections, Inc.",NM,880XX,Web,11/20/2015,Closed with explanation,Yes,,1664608
+11/20/2015,Credit reporting,,Incorrect information on credit report,Account status,,Company chooses not to provide a public response,TransUnion,,,Web,11/24/2015,Closed with explanation,Yes,,1665502
+11/20/2015,Credit card,,Other,,,,JPMorgan Chase,FL,349XX,Web,11/20/2015,Closed with explanation,Yes,,1664839
+11/20/2015,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,TN,371XX,Web,11/20/2015,Closed with explanation,Yes,Yes,1664880
+11/20/2015,Bank account or service,Checking account,Problems caused by my funds being low,,,,JPMorgan Chase,OH,443XX,Web,11/20/2015,Closed with monetary relief,Yes,,1664916
+11/20/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,FL,33025,Phone,11/24/2015,In progress,Yes,,1665278
+11/20/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,Ally Financial Inc.,OH,450XX,Web,11/20/2015,In progress,Yes,,1664915
+11/20/2015,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Seterus,AE,093XX,Web,11/20/2015,Closed with explanation,Yes,,1664927
+11/20/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,FL,335XX,Web,11/20/2015,Closed with explanation,Yes,,1665036
+11/20/2015,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,"Select Portfolio Servicing, Inc",TX,380XX,Web,11/20/2015,Closed with explanation,Yes,,1666105
+11/20/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Flagstar Bank,IN,476XX,Web,11/20/2015,In progress,Yes,,1666122
+11/20/2015,Debt collection,"Other (phone, health club, etc.)",Improper contact or sharing of info,Contacted me after I asked not to,,,"Diversified Consultants, Inc.",NJ,070XX,Web,11/20/2015,Closed with explanation,Yes,Yes,1664576
+11/20/2015,Debt collection,,Communication tactics,Frequent or repeated calls,,Company believes it acted appropriately as authorized by contract or law,"Enhanced Recovery Company, LLC",TN,384XX,Web,11/20/2015,Closed with non-monetary relief,Yes,,1664650
+11/20/2015,Credit card,,Credit card protection / Debt protection,,,,"Continental Finance Company, LLC",IL,604XX,Web,11/20/2015,In progress,Yes,,1665469
+11/20/2015,Credit card,,APR or interest rate,,,Company chooses not to provide a public response,Citibank,NY,112XX,Web,11/20/2015,Closed with explanation,Yes,Yes,1665064
+11/20/2015,Credit card,,Identity theft / Fraud / Embezzlement,,,Company chooses not to provide a public response,Barclays,NY,14450,Web,11/20/2015,Closed with monetary relief,Yes,,1665915
+11/20/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,FL,334XX,Web,11/20/2015,Closed with explanation,Yes,,1664642
+11/20/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,FL,334XX,Web,11/20/2015,Closed with explanation,Yes,,1664641
+11/20/2015,Consumer loan,Vehicle loan,Problems when you are unable to pay,,,,Ally Financial Inc.,GA,302XX,Web,11/20/2015,In progress,Yes,,1665596
+11/20/2015,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Frequent or repeated calls,,Company believes it acted appropriately as authorized by contract or law,"CU Recovery, Inc.",MO,641XX,Web,11/20/2015,Closed with non-monetary relief,Yes,Yes,1665253
+11/20/2015,Credit card,,Advertising and marketing,,,Company chooses not to provide a public response,Barclays,PA,195XX,Web,11/20/2015,Closed with explanation,Yes,,1664626
+11/20/2015,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,TX,762XX,Web,11/20/2015,Closed with explanation,Yes,,1665298
+11/20/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,FL,327XX,Web,11/20/2015,Closed with explanation,Yes,,1665579
+11/20/2015,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,"Bayview Loan Servicing, LLC",PA,191XX,Web,11/20/2015,Closed with explanation,Yes,,1666112
+11/20/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,"Convergent Resources, Inc.",FL,330XX,Web,11/20/2015,Closed with explanation,Yes,,1666143
+11/20/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,Ally Financial Inc.,PA,19079,Referral,11/24/2015,In progress,Yes,,1666018
+11/20/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,"Diversified Consultants, Inc.",IL,601XX,Web,11/20/2015,Closed with explanation,Yes,Yes,1665764
+11/20/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,Company chooses not to provide a public response,"WAKEFIELD & ASSOCIATES, INC.",CO,809XX,Web,11/20/2015,Closed with explanation,Yes,,1665894
+11/20/2015,Credit reporting,,Incorrect information on credit report,Account status,,Company chooses not to provide a public response,TransUnion,OH,440XX,Web,11/20/2015,Closed with explanation,Yes,,1665834
+11/20/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,"Williams & Fudge, Inc",AZ,850XX,Web,11/20/2015,Closed with explanation,Yes,,1666022
+11/20/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,NJ,072XX,Web,11/21/2015,In progress,Yes,,1666754
+11/20/2015,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,"Select Portfolio Servicing, Inc",CA,920XX,Web,11/21/2015,Closed with explanation,Yes,,1666937
+11/20/2015,Bank account or service,Checking account,Deposits and withdrawals,,,,BNY Mellon,CA,948XX,Web,11/20/2015,Closed with monetary relief,Yes,,1665985
+11/20/2015,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,TransUnion,CA,958XX,Web,11/20/2015,In progress,Yes,,1665998
+11/20/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,Company believes it acted appropriately as authorized by contract or law,"Capital Management Services, LP",KY,427XX,Web,11/20/2015,Closed,Yes,Yes,1666070
+11/20/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,TX,774XX,Web,11/21/2015,Closed with explanation,Yes,,1666653
+11/20/2015,Mortgage,Other mortgage,"Application, originator, mortgage broker",,,Company believes it acted appropriately as authorized by contract or law,Cornerstone Home Lending Inc.,WA,980XX,Web,11/21/2015,Closed with explanation,Yes,,1666739
+11/20/2015,Credit card,,Advertising and marketing,,,,Amex,CA,921XX,Web,11/21/2015,Closed with explanation,Yes,,1666750
+11/20/2015,Bank account or service,Checking account,"Account opening, closing, or management",,,,JPMorgan Chase,CA,940XX,Web,11/21/2015,Closed with explanation,Yes,Yes,1667047
+11/20/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,CA,953XX,Web,11/21/2015,Closed with explanation,Yes,Yes,1666949
+11/20/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,IA,500XX,Web,11/21/2015,In progress,Yes,,1666682
+11/20/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,TransUnion,DC,200XX,Web,11/21/2015,In progress,Yes,,1666760
+11/20/2015,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Equifax,FL,334XX,Web,11/21/2015,Closed with explanation,Yes,Yes,1667058
+11/20/2015,Consumer loan,Vehicle lease,Managing the loan or lease,,,,Nissan Motor Acceptance Corporation,NJ,8854,Web,11/20/2015,In progress,Yes,,1665501
+11/20/2015,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Citibank,IA,504XX,Web,11/23/2015,In progress,Yes,,1665526
+11/20/2015,Bank account or service,Other bank product/service,Deposits and withdrawals,,,,JPMorgan Chase,CA,951XX,Web,11/23/2015,Closed with explanation,Yes,,1665325
+11/19/2015,Credit reporting,,Incorrect information on credit report,Public record,,Company chooses not to provide a public response,TransUnion,GA,30260,Web,11/19/2015,Closed with non-monetary relief,Yes,,1664244
+11/19/2015,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,Equifax,NC,282XX,Web,11/19/2015,In progress,Yes,,1662501
+11/19/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,Company chooses not to provide a public response,Experian,CA,94544,Web,11/19/2015,Closed with explanation,Yes,,1662975
+11/19/2015,Prepaid card,General purpose card,Adding money,,,,"Empowerment Ventures, LLC",KS,67210,Referral,11/23/2015,In progress,Yes,,1663426
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,FL,34142,Postal mail,11/23/2015,In progress,Yes,,1664001
+11/19/2015,Payday loan,,Charged fees or interest I didn't expect,,,,Ad Astra Recovery Services Inc,WY,82007,Web,11/24/2015,Closed with explanation,Yes,,1664760
+11/19/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,Company chooses not to provide a public response,TransUnion,TX,75006,Web,11/19/2015,Closed with non-monetary relief,Yes,,1663971
+11/19/2015,Mortgage,Other mortgage,Other,,,,Nationstar Mortgage,MA,1844,Postal mail,11/23/2015,Closed with explanation,Yes,,1662881
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account terms,,Company chooses not to provide a public response,Experian,GA,30260,Web,11/19/2015,Closed with non-monetary relief,Yes,,1664247
+11/19/2015,Money transfers,International money transfer,Wrong amount charged or received,,,,MoneyGram,NJ,7111,Phone,11/23/2015,In progress,Yes,,1662869
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,GA,30083,Referral,11/24/2015,Closed with explanation,Yes,,1663764
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,CA,92223,Web,11/19/2015,In progress,Yes,,1663698
+11/19/2015,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Quicken Loans,OH,44131,Referral,11/23/2015,Closed with monetary relief,Yes,,1663342
+11/19/2015,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,"Bayview Loan Servicing, LLC",MA,2571,Web,11/19/2015,In progress,Yes,,1663365
+11/19/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,"Credence Resource Management, LLC",NY,11228,Web,11/19/2015,Closed with non-monetary relief,Yes,,1663511
+11/19/2015,Credit card,,Credit card protection / Debt protection,,,,Capital One,CO,80011,Web,11/19/2015,Closed with explanation,Yes,,1663647
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,Company chooses not to provide a public response,Experian,FL,32810,Web,11/19/2015,Closed with explanation,Yes,,1663439
+11/19/2015,Credit card,,Delinquent account,,,Company chooses not to provide a public response,U.S. Bancorp,CA,91605,Web,11/19/2015,Closed with explanation,Yes,,1663877
+11/19/2015,Credit reporting,,Incorrect information on credit report,Personal information,,,Equifax,CA,91745,Web,11/19/2015,Closed with explanation,Yes,,1663803
+11/19/2015,Debt collection,Medical,Disclosure verification of debt,Right to dispute notice not received,,Company disputes the facts presented in the complaint,"Benuck & Rainey, Inc.",IN,46032,Web,11/20/2015,Closed with explanation,Yes,Yes,1664774
+11/19/2015,Credit reporting,,Incorrect information on credit report,Personal information,,,Equifax,CA,90740,Web,11/19/2015,Closed with explanation,Yes,,1662756
+11/19/2015,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,,Company chooses not to provide a public response,TransUnion,GA,31406,Referral,11/24/2015,Closed with explanation,Yes,,1664010
+11/19/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,"Bayview Loan Servicing, LLC",GA,30135,Web,11/19/2015,In progress,Yes,,1663374
+11/19/2015,Credit reporting,,Incorrect information on credit report,Public record,,Company chooses not to provide a public response,TransUnion,NY,10035,Web,11/20/2015,Closed with non-monetary relief,Yes,,1664800
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,TransUnion,GA,30083,Referral,11/24/2015,In progress,Yes,,1663765
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,GA,306XX,Web,11/24/2015,In progress,Yes,,1663872
+11/19/2015,Credit reporting,,Credit reporting company's investigation,Investigation took too long,,,Equifax,FL,33076,Web,11/19/2015,Closed with explanation,Yes,Yes,1663724
+11/19/2015,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,Experian,GA,30294,Web,11/20/2015,In progress,Yes,,1665886
+11/19/2015,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,,,Equifax,GA,31406,Referral,11/24/2015,Closed with explanation,Yes,,1664011
+11/19/2015,Bank account or service,Checking account,Using a debit or ATM card,,,,Navy FCU,NJ,7018,Referral,11/24/2015,In progress,Yes,,1663097
+11/19/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,,Company believes the complaint is the result of a misunderstanding,"Ray Klein, Inc.",OR,97138,Web,11/19/2015,Closed with explanation,Yes,,1664267
+11/19/2015,Debt collection,Payday loan,Communication tactics,Threatened to take legal action,,,Bronstein & Weiss Arbitration,FL,33919,Phone,11/24/2015,Closed with explanation,Yes,,1664597
+11/19/2015,Credit reporting,,Improper use of my credit report,Report shared with employer w/o consent,,Company chooses not to provide a public response,TransUnion,GA,31082,Web,11/19/2015,Closed with explanation,Yes,,1662726
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,TransUnion,FL,34142,Postal mail,11/23/2015,In progress,Yes,,1664004
+11/19/2015,Credit reporting,,Incorrect information on credit report,Personal information,,Company chooses not to provide a public response,TransUnion,CA,90740,Web,11/19/2015,Closed with non-monetary relief,Yes,,1662757
+11/19/2015,Credit reporting,,Incorrect information on credit report,Personal information,,Company chooses not to provide a public response,TransUnion,OH,45710,Web,11/19/2015,Closed with explanation,Yes,,1663804
+11/19/2015,Credit reporting,,Incorrect information on credit report,Personal information,,Company chooses not to provide a public response,Experian,CA,90740,Web,11/19/2015,Closed with explanation,Yes,,1662758
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,Company chooses not to provide a public response,TransUnion,GA,30034,Web,11/20/2015,Closed with non-monetary relief,Yes,,1666000
+11/19/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,MA,1923,Web,11/19/2015,In progress,Yes,,1664111
+11/19/2015,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Experian,FL,33611,Web,11/19/2015,In progress,Yes,,1663024
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,Experian,FL,32773,Web,11/19/2015,Closed with non-monetary relief,Yes,,1664035
+11/19/2015,Mortgage,VA mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,CO,80132,Web,11/19/2015,Closed with explanation,Yes,,1662970
+11/19/2015,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,JPMorgan Chase,CA,94583,Postal mail,11/23/2015,Closed with explanation,Yes,,1662809
+11/19/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,,Company chooses not to provide a public response,Experian,PA,19422,Web,11/19/2015,Closed with non-monetary relief,Yes,,1662810
+11/19/2015,Bank account or service,Checking account,"Account opening, closing, or management",,,,JPMorgan Chase,IL,60651,Referral,11/30/2015,Closed with explanation,Yes,,1663189
+11/19/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,NY,10035,Web,11/20/2015,Closed with explanation,Yes,Yes,1664802
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account terms,,Company chooses not to provide a public response,TransUnion,GA,30260,Web,11/19/2015,Closed with explanation,Yes,,1664246
+11/19/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,FL,32744,Web,11/19/2015,Closed with explanation,Yes,,1663483
+11/19/2015,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,Nationstar Mortgage,CO,80132,Web,11/20/2015,Closed with explanation,Yes,,1666098
+11/19/2015,Credit card,,Credit card protection / Debt protection,,,,JPMorgan Chase,CA,94109,Web,11/19/2015,In progress,Yes,,1666010
+11/19/2015,Prepaid card,General purpose card,"Managing, opening, or closing account",,,,Amex,CA,94539,Referral,11/23/2015,Closed,Yes,,1662495
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,CA,95825,Web,11/19/2015,In progress,Yes,,1664149
+11/19/2015,Credit reporting,,Incorrect information on credit report,Public record,,Company chooses not to provide a public response,Experian,TX,75078,Web,11/19/2015,Closed with non-monetary relief,Yes,,1664147
+11/19/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,IN,46186,Web,11/19/2015,Closed with explanation,Yes,,1663009
+11/19/2015,Credit card,,Credit card protection / Debt protection,,,Company chooses not to provide a public response,Wells Fargo,CA,94109,Web,11/20/2015,Closed with explanation,Yes,,1666011
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account terms,,Company chooses not to provide a public response,TransUnion,GA,30260,Web,11/19/2015,Closed with explanation,Yes,,1664245
+11/19/2015,Bank account or service,Checking account,Deposits and withdrawals,,,Company believes complaint caused principally by actions of third party outside the control or direction of the company,UMB Bank,OR,97603,Referral,11/25/2015,Closed with explanation,Yes,,1664559
+11/19/2015,Credit card,,Credit determination,,,,Amex,GA,30318,Web,11/19/2015,Closed with explanation,Yes,Yes,1662853
+11/19/2015,Credit reporting,,Incorrect information on credit report,Personal information,,,Equifax,CO,80223,Web,11/20/2015,Closed with explanation,Yes,,1664750
+11/19/2015,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Flagstar Bank,NY,11758,Referral,11/23/2015,In progress,Yes,,1663258
+11/19/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,Company disputes the facts presented in the complaint,"Enhanced Recovery Company, LLC",FL,32773,Web,11/19/2015,Closed with non-monetary relief,Yes,,1664036
+11/19/2015,Bank account or service,Checking account,Deposits and withdrawals,,,Company chooses not to provide a public response,Regions,FL,32439,Referral,11/23/2015,Closed with explanation,Yes,,1664624
+11/19/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,Company chooses not to provide a public response,U.S. Bancorp,WA,98902,Postal mail,11/23/2015,Closed with non-monetary relief,Yes,,1664234
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,CT,6812,Web,11/19/2015,Closed with explanation,Yes,,1663926
+11/19/2015,Credit card,,Identity theft / Fraud / Embezzlement,,,Company chooses not to provide a public response,U.S. Bancorp,OH,45336,Web,11/19/2015,Closed with non-monetary relief,Yes,,1662786
+11/19/2015,Credit card,,Billing disputes,,,,"Continental Finance Company, LLC",NJ,7050,Web,11/23/2015,In progress,Yes,,1663551
+11/19/2015,Credit card,,Delinquent account,,,,Navy FCU,MS,39073,Web,11/19/2015,In progress,Yes,,1664275
+11/19/2015,Debt collection,,Communication tactics,Frequent or repeated calls,,,Mid-Atlantic Consumer Services,NC,27707,Web,11/24/2015,Closed with explanation,Yes,,1663319
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,FL,32810,Web,11/19/2015,In progress,Yes,,1663440
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,Company chooses not to provide a public response,TransUnion,MA,2188,Postal mail,11/23/2015,Closed with explanation,Yes,,1662456
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,Experian,,104XX,Web,11/19/2015,Closed with explanation,Yes,,1664164
+11/19/2015,Debt collection,Medical,Disclosure verification of debt,Right to dispute notice not received,,Company believes it acted appropriately as authorized by contract or law,"Preferred Collection and Management, Inc.",FL,32810,Referral,11/23/2015,Closed with explanation,Yes,,1663401
+11/19/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",,,,Navy FCU,GA,30294,Web,11/20/2015,In progress,Yes,,1665891
+11/19/2015,Credit card,,APR or interest rate,,,,Navy FCU,MD,207XX,Web,11/19/2015,In progress,Yes,,1662761
+11/19/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,Company believes it acted appropriately as authorized by contract or law,Penn Credit Corporation,PA,17111,Web,11/19/2015,Closed with explanation,Yes,,1662935
+11/19/2015,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,JPMorgan Chase,AR,72936,Referral,11/24/2015,In progress,Yes,,1663696
+11/19/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",,,Company chooses not to provide a public response,U.S. Bancorp,TX,785XX,Web,11/19/2015,Closed with non-monetary relief,Yes,,1662749
+11/19/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,Santander Consumer USA,GA,30297,Referral,11/23/2015,Closed with explanation,Yes,,1662538
+11/19/2015,Bank account or service,Checking account,Using a debit or ATM card,,,,JPMorgan Chase,TX,75016,Web,11/19/2015,In progress,Yes,,1663997
+11/19/2015,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,,,Capital One,VA,201XX,Web,11/19/2015,Closed with non-monetary relief,Yes,,1662794
+11/19/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,TX,75078,Web,11/19/2015,In progress,Yes,,1664146
+11/19/2015,Consumer loan,Vehicle loan,Taking out the loan or lease,,,Company believes the complaint is the result of a misunderstanding,Mission Financial Services Corporation,CO,80003,Web,11/19/2015,Closed with non-monetary relief,Yes,,1663371
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,FL,323XX,Web,11/19/2015,In progress,Yes,,1662724
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,GA,30260,Web,11/19/2015,In progress,Yes,,1664249
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,GA,30294,Web,11/20/2015,Closed with explanation,Yes,,1665890
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,TransUnion,IL,601XX,Web,11/19/2015,In progress,Yes,,1664028
+11/19/2015,Bank account or service,Checking account,Problems caused by my funds being low,,,,KeyBank NA,OH,44126,Web,11/20/2015,In progress,Yes,,1664676
+11/19/2015,Bank account or service,Other bank product/service,Deposits and withdrawals,,,,JPMorgan Chase,GA,30311,Referral,11/23/2015,Closed with explanation,Yes,,1664091
+11/19/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Ocwen,NY,117XX,Web,11/19/2015,Closed with explanation,Yes,,1662793
+11/19/2015,Credit reporting,,Incorrect information on credit report,Personal information,,,Equifax,MD,20735,Web,11/19/2015,Closed with non-monetary relief,Yes,,1664041
+11/19/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,,"Credit Systems International, Inc.",TX,75034,Web,11/20/2015,Closed with explanation,Yes,,1662995
+11/19/2015,Debt collection,Medical,Improper contact or sharing of info,Talked to a third party about my debt,,Company believes it acted appropriately as authorized by contract or law,"Stoneleigh Recovery Associates, LLC",KY,403XX,Web,11/19/2015,Closed with non-monetary relief,Yes,,1662768
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,FL,33155,Postal mail,11/23/2015,Closed with explanation,Yes,,1662557
+11/19/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,Company believes it acted appropriately as authorized by contract or law,"Stallings Financial Group, Inc.",NY,10027,Web,11/23/2015,Closed with explanation,Yes,,1662889
+11/19/2015,Debt collection,,Improper contact or sharing of info,Contacted me after I asked not to,,Company chooses not to provide a public response,"Constar Financial Services, LLC",NC,283XX,Web,11/19/2015,Closed with explanation,Yes,Yes,1664074
+11/19/2015,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,,,Equifax,GA,30046,Web,11/19/2015,Closed with explanation,Yes,Yes,1663279
+11/19/2015,Credit reporting,,Incorrect information on credit report,Public record,,,First Advantage Corporation,AZ,85019,Web,11/19/2015,In progress,Yes,,1663833
+11/19/2015,Debt collection,Credit card,Taking/threatening an illegal action,Threatened to sue on too old debt,,Company chooses not to provide a public response,"ZENCO COLLECTION, LLC",NJ,080XX,Web,11/19/2015,Closed with explanation,Yes,,1662857
+11/19/2015,Credit reporting,,Credit monitoring or identity protection,Billing dispute,,,Experian,TN,38016,Web,11/19/2015,In progress,Yes,,1664254
+11/19/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,GA,30260,Web,11/19/2015,In progress,Yes,,1664243
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,MS,39083,Web,11/19/2015,Closed with explanation,Yes,Yes,1662938
+11/19/2015,Credit reporting,,Credit reporting company's investigation,Investigation took too long,,,Experian,FL,33076,Web,11/19/2015,In progress,Yes,,1663725
+11/19/2015,Payday loan,,Charged fees or interest I didn't expect,,,,CNG Financial Corporation,FL,33712,Web,11/19/2015,Closed with explanation,Yes,,1663896
+11/19/2015,Credit card,,Credit card protection / Debt protection,,,Company chooses not to provide a public response,Citibank,,007XX,Web,11/19/2015,Closed with monetary relief,Yes,,1664083
+11/19/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,Transworld Systems Inc.,FL,33172,Web,11/19/2015,In progress,Yes,,1663829
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,TransUnion,FL,32810,Web,11/19/2015,In progress,Yes,,1663441
+11/19/2015,Debt collection,Credit card,Communication tactics,Threatened to take legal action,,,Mid-Atlantic Consumer Services,TN,384XX,Web,11/19/2015,Closed with explanation,Yes,,1662917
+11/19/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,Santander Consumer USA,GA,30914,Web,11/19/2015,Closed with explanation,Yes,,1664251
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,GA,30260,Web,11/19/2015,In progress,Yes,,1664248
+11/19/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,Zwicker & Associates,TX,787XX,Web,11/19/2015,Closed with explanation,Yes,,1662888
+11/19/2015,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Hudson City Savings Bank,NY,,Referral,11/23/2015,In progress,Yes,,1662820
+11/19/2015,Bank account or service,Checking account,Deposits and withdrawals,,,,JPMorgan Chase,MI,48186,Referral,11/24/2015,Closed with explanation,Yes,,1666005
+11/19/2015,Payday loan,,Charged fees or interest I didn't expect,,,,Speedy Cash Holdings,TX,761XX,Web,11/19/2015,Closed with monetary relief,Yes,,1664130
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,CA,95825,Web,11/19/2015,In progress,Yes,,1664148
+11/19/2015,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Navy FCU,SC,29902,Referral,11/24/2015,In progress,Yes,,1666032
+11/19/2015,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,Experian,NY,103XX,Web,11/19/2015,In progress,Yes,,1664117
+11/19/2015,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Guild Mortgage,CA,91766,Phone,11/24/2015,Closed with explanation,Yes,,1663819
+11/19/2015,Student loan,Non-federal student loan,Can't repay my loan,,,Company believes complaint caused principally by actions of third party outside the control or direction of the company,First Associates Loan Servicing LLC,,32714,Web,11/19/2015,Closed with explanation,Yes,,1664005
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,NY,103XX,Web,11/19/2015,In progress,Yes,,1664116
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,FL,33160,Web,11/19/2015,Closed with explanation,Yes,,1663345
+11/19/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,AllianceOne Recievables Management,NJ,8869,Referral,11/24/2015,Closed with explanation,Yes,,1664099
+11/19/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,MN,55439,Web,11/19/2015,In progress,Yes,,1663333
+11/19/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,Company believes it acted appropriately as authorized by contract or law,"Bursey & Associates, P.C.",AZ,85383,Postal mail,11/23/2015,Closed with explanation,Yes,,1663451
+11/19/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Experian,NY,10035,Web,11/20/2015,In progress,Yes,,1664801
+11/19/2015,Bank account or service,Checking account,Deposits and withdrawals,,,,KeyBank NA,NY,138XX,Web,11/19/2015,In progress,Yes,,1664128
+11/19/2015,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,,Company believes it acted appropriately as authorized by contract or law,"HCFS Health Care Financial Services, Inc.",NY,11211,Web,11/20/2015,Closed with explanation,Yes,,1664744
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,Experian,GA,30294,Web,11/20/2015,Closed with non-monetary relief,Yes,,1665889
+11/19/2015,Credit card,,Customer service / Customer relations,,,Company chooses not to provide a public response,Citibank,SC,290XX,Web,11/19/2015,Closed with explanation,Yes,,1663008
+11/19/2015,Mortgage,Conventional fixed mortgage,Settlement process and costs,,,,"Select Portfolio Servicing, Inc",TN,37363,Web,11/19/2015,Closed with explanation,Yes,,1662850
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,NC,27703,Postal mail,11/23/2015,Closed with explanation,Yes,,1662561
+11/19/2015,Bank account or service,Checking account,Deposits and withdrawals,,,,JPMorgan Chase,CA,787XX,Web,11/19/2015,Closed with explanation,Yes,,1663068
+11/19/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,Company believes it acted appropriately as authorized by contract or law,"First National Collection Bureau, Inc.",PA,18902,Web,11/19/2015,Closed with explanation,Yes,,1663626
+11/19/2015,Debt collection,Medical,Improper contact or sharing of info,Talked to a third party about my debt,,Company believes it acted appropriately as authorized by contract or law,"RevMD Partners, LLC.",CA,92037,Referral,11/23/2015,Closed with explanation,Yes,,1664237
+11/19/2015,Student loan,Non-federal student loan,Dealing with my lender or servicer,,,,Transworld Systems Inc.,CA,953XX,Web,11/24/2015,In progress,Yes,,1663102
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,MA,2188,Postal mail,11/23/2015,Closed with explanation,Yes,,1662455
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,MD,20735,Web,11/19/2015,In progress,Yes,,1664040
+11/19/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,,,Equifax,MO,641XX,Web,11/19/2015,Closed with explanation,Yes,,1663123
+11/19/2015,Credit card,,Credit card protection / Debt protection,,,,JPMorgan Chase,OR,97017,Web,11/19/2015,Closed with explanation,Yes,,1662518
+11/19/2015,Consumer loan,Vehicle lease,Managing the loan or lease,,,,Ally Financial Inc.,,,Referral,11/24/2015,In progress,Yes,,1663035
+11/19/2015,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,,,Equifax,OR,974XX,Web,11/19/2015,Closed with explanation,Yes,,1662472
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,VA,20124,Web,11/19/2015,In progress,Yes,,1664122
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account terms,,Company chooses not to provide a public response,TransUnion,PA,19030,Web,11/19/2015,Closed with explanation,Yes,,1663344
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,,104XX,Web,11/19/2015,Closed with explanation,Yes,,1664163
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,MN,55118,Web,11/19/2015,In progress,Yes,,1664278
+11/19/2015,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Ocwen,MD,20777,Referral,11/23/2015,Closed with explanation,Yes,,1663588
+11/19/2015,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,Company chooses not to provide a public response,"Midwest Loan Services, Inc.",AZ,863XX,Web,11/19/2015,Closed with explanation,Yes,,1663315
+11/19/2015,Debt collection,Medical,Disclosure verification of debt,Not given enough info to verify debt,,Company believes it acted appropriately as authorized by contract or law,"Capital Accounts, LLC",CA,90035,Phone,11/24/2015,Closed with explanation,Yes,,1662520
+11/19/2015,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Frequent or repeated calls,,,"Diversified Consultants, Inc.",TX,77272,Referral,11/23/2015,Closed with explanation,Yes,,1663714
+11/19/2015,Credit card,,Credit line increase/decrease,,,,JPMorgan Chase,MI,481XX,Web,11/19/2015,Closed with explanation,Yes,,1663307
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,MN,55439,Web,11/19/2015,Closed with non-monetary relief,Yes,,1663332
+11/19/2015,Credit card,,Credit determination,,,Company chooses not to provide a public response,Citibank,NJ,7066,Postal mail,11/23/2015,Closed with explanation,Yes,,1662866
+11/19/2015,Payday loan,,Charged fees or interest I didn't expect,,,Company chooses not to provide a public response,Cottonwood Financial Ltd.,LA,711XX,Web,11/19/2015,Closed with explanation,Yes,,1663236
+11/19/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,AZ,85029,Web,11/19/2015,Closed with explanation,Yes,,1662874
+11/19/2015,Debt collection,,Communication tactics,Threatened to take legal action,,Company believes complaint represents an opportunity for improvement to better serve consumers,"Valentine and Kebartas, Inc.",VA,234XX,Web,11/19/2015,Closed with explanation,Yes,Yes,1663510
+11/19/2015,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,Company chooses not to provide a public response,Bank of America,NJ,8330,Referral,11/23/2015,Closed with explanation,Yes,,1662665
+11/19/2015,Debt collection,Medical,Disclosure verification of debt,Not given enough info to verify debt,,,"Health Services Asset Management, LLC.",WA,982XX,Web,11/20/2015,Closed with explanation,Yes,,1664796
+11/19/2015,Credit card,,Customer service / Customer relations,,,,Amex,PA,19148,Phone,11/24/2015,Closed with explanation,Yes,,1664685
+11/19/2015,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,Company chooses not to provide a public response,Wells Fargo,TX,751XX,Web,11/19/2015,Closed with explanation,Yes,,1664027
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,CA,95825,Web,11/19/2015,In progress,Yes,,1664150
+11/19/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,Company believes complaint is the result of an isolated error,"Hunter Warfield, Inc.",GA,308XX,Web,11/19/2015,Closed with explanation,Yes,,1663485
+11/19/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,,Company chooses not to provide a public response,TransUnion,MO,63120,Phone,11/23/2015,Closed with explanation,Yes,Yes,1663011
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,OH,43402,Web,11/19/2015,Closed with non-monetary relief,Yes,,1662867
+11/19/2015,Debt collection,Medical,Disclosure verification of debt,Not given enough info to verify debt,,Company chooses not to provide a public response,"ProCollect, Inc",TX,760XX,Web,11/19/2015,Closed with explanation,Yes,,1663526
+11/19/2015,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Flagstar Bank,RI,028XX,Web,11/19/2015,In progress,Yes,,1663996
+11/19/2015,Student loan,Non-federal student loan,Dealing with my lender or servicer,,,,Alaska Commission on Post Secondary Education,WA,986XX,Web,11/19/2015,Closed with explanation,Yes,,1663616
+11/19/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,Company believes it acted appropriately as authorized by contract or law,"Aspen National Financial, Inc.",CA,921XX,Web,11/19/2015,Closed with non-monetary relief,Yes,Yes,1663599
+11/19/2015,Consumer loan,Vehicle loan,Problems when you are unable to pay,,,,Ally Financial Inc.,MO,631XX,Web,11/20/2015,In progress,Yes,,1664778
+11/19/2015,Bank account or service,Checking account,Using a debit or ATM card,,,,Amex,CA,915XX,Web,11/19/2015,Closed with explanation,Yes,Yes,1662517
+11/19/2015,Bank account or service,Checking account,Using a debit or ATM card,,,,JPMorgan Chase,CA,931XX,Web,11/19/2015,In progress,Yes,,1663894
+11/19/2015,Credit reporting,,Incorrect information on credit report,Personal information,,,Equifax,NY,113XX,Web,11/19/2015,Closed with explanation,Yes,,1663673
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,OH,44125,Web,11/19/2015,Closed with explanation,Yes,,1663570
+11/19/2015,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Ocwen,WA,983XX,Web,11/19/2015,Closed with explanation,Yes,,1663995
+11/19/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"EOS Holdings, Inc.",SC,290XX,Web,11/19/2015,Closed with explanation,Yes,,1663817
+11/19/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,Company can't verify or dispute the facts in the complaint,Stellar Recovery Inc.,CA,958XX,Web,11/19/2015,Closed with explanation,Yes,,1663775
+11/19/2015,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt was paid,,Company chooses not to provide a public response,Citibank,MA,1826,Phone,11/23/2015,Closed with explanation,Yes,,1662887
+11/19/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,Company chooses not to provide a public response,TransUnion,FL,327XX,Web,11/19/2015,Closed with non-monetary relief,Yes,,1663754
+11/19/2015,Debt collection,,Improper contact or sharing of info,Talked to a third party about my debt,,,Gila LLC,AZ,857XX,Web,11/19/2015,Closed with explanation,Yes,,1663898
+11/19/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,Santander Consumer USA,OR,970XX,Web,11/19/2015,Closed with explanation,Yes,,1663820
+11/19/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,Company believes it acted appropriately as authorized by contract or law,"Enhanced Recovery Company, LLC",GA,306XX,Web,11/19/2015,Closed with explanation,Yes,,1663849
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,GA,30294,Web,11/20/2015,In progress,Yes,,1665887
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,FL,328XX,Web,11/19/2015,Closed with explanation,Yes,Yes,1663827
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,CA,917XX,Web,11/20/2015,In progress,Yes,,1664775
+11/19/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,TransUnion,OH,435XX,Web,11/19/2015,In progress,Yes,,1664159
+11/19/2015,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Experian,KY,403XX,Web,11/19/2015,In progress,Yes,,1663924
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,TX,765XX,Web,11/20/2015,In progress,Yes,,1666082
+11/19/2015,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Equifax,FL,330XX,Web,11/20/2015,Closed with explanation,Yes,Yes,1666318
+11/19/2015,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Citibank,WI,549XX,Web,11/20/2015,In progress,Yes,,1664765
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,TX,765XX,Web,11/20/2015,Closed with explanation,Yes,Yes,1666081
+11/19/2015,Consumer loan,Vehicle loan,Taking out the loan or lease,,,,Ally Financial Inc.,GA,302XX,Web,11/20/2015,In progress,Yes,,1664754
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,PA,191XX,Web,11/20/2015,Closed with explanation,Yes,,1664694
+11/19/2015,Debt collection,,False statements or representation,Indicated committed crime not paying,,Company chooses not to provide a public response,U.S. Bancorp,PA,161XX,Web,11/20/2015,Closed with explanation,Yes,,1664816
+11/19/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,Company believes the complaint is the result of a misunderstanding,"Southwest Recovery Services, Inc.",TX,760XX,Web,11/20/2015,Closed with explanation,Yes,,1664808
+11/19/2015,Credit card,,Closing/Cancelling account,,,,Capital One,OH,442XX,Web,11/20/2015,Closed with explanation,Yes,,1664799
+11/19/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,Santander Consumer USA,NV,891XX,Web,11/20/2015,Closed with explanation,Yes,,1664798
+11/19/2015,Debt collection,"Other (phone, health club, etc.)",Disclosure verification of debt,Right to dispute notice not received,,Company believes it acted appropriately as authorized by contract or law,"PDQ Services, Inc.",GA,30046,Web,11/19/2015,Closed with explanation,Yes,,1663523
+11/19/2015,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Embrace Home Loans Inc,NY,14750,Web,11/19/2015,In progress,Yes,,1663502
+11/19/2015,Student loan,Non-federal student loan,Dealing with my lender or servicer,,,,Transworld Systems Inc.,VA,23060,Web,11/19/2015,In progress,Yes,,1663399
+11/19/2015,Bank account or service,Checking account,Deposits and withdrawals,,,Company chooses not to provide a public response,Wells Fargo,SC,29038,Referral,11/23/2015,Closed with explanation,Yes,,1663107
+11/19/2015,Mortgage,Conventional fixed mortgage,Settlement process and costs,,,Company believes it acted appropriately as authorized by contract or law,State Employee's Credit Union,NC,27540,Web,11/19/2015,Closed with non-monetary relief,Yes,,1663552
+11/19/2015,Debt collection,"Other (phone, health club, etc.)",Communication tactics,Threatened to take legal action,,Company chooses not to provide a public response,"Mariner Finance, LLC",OH,453XX,Web,11/23/2015,Closed with explanation,Yes,Yes,1662506
+11/19/2015,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,JPMorgan Chase,CO,80130,Referral,11/24/2015,Closed with explanation,Yes,,1662509
+11/19/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,ID,83712,Web,11/19/2015,In progress,Yes,,1664018
+11/19/2015,Debt collection,"Other (phone, health club, etc.)",False statements or representation,Impersonated an attorney or official,,,"U.S. Collections West, Inc.",CA,95037,Web,11/20/2015,Closed with explanation,Yes,,1666077
+11/19/2015,Debt collection,"Other (phone, health club, etc.)",Taking/threatening an illegal action,Threatened arrest/jail if do not pay,,Company chooses not to provide a public response,U.S. Bancorp,IL,605XX,Web,11/23/2015,Closed,Yes,Yes,1666133
+11/19/2015,Consumer loan,Vehicle loan,Managing the loan or lease,,,,Ally Financial Inc.,WI,543XX,Web,11/23/2015,In progress,Yes,,1663939
+11/19/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,IL,60616,Web,11/19/2015,Closed with explanation,Yes,Yes,1664230
+11/19/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,Company believes it acted appropriately as authorized by contract or law,"Enhanced Recovery Company, LLC",TN,370XX,Web,11/24/2015,Closed with non-monetary relief,Yes,,1663033
+11/19/2015,Credit card,,Identity theft / Fraud / Embezzlement,,,Company chooses not to provide a public response,Wells Fargo,MS,39056,Phone,11/24/2015,Closed with explanation,Yes,,1666097
+11/19/2015,Debt collection,Medical,Taking/threatening an illegal action,Sued where didn't live/sign for debt,,Company believes it acted appropriately as authorized by contract or law,"Credico, Inc.",SD,571XX,Web,11/23/2015,Closed with explanation,Yes,Yes,1662922
+11/19/2015,Debt collection,"Other (phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,,,Rent Recovery Solutions,FL,331XX,Web,11/23/2015,Closed with explanation,Yes,,1662744
+11/19/2015,Debt collection,Medical,False statements or representation,Attempted to collect wrong amount,,,Clark County Collection Service,NV,89131,Referral,11/23/2015,Closed with explanation,Yes,,1663799
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,,TransUnion,MA,2780,Web,11/18/2015,In progress,Yes,,1661446
+11/18/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,Premier Portfolio Group,IN,462XX,Web,11/18/2015,In progress,Yes,,1661560
+11/18/2015,Bank account or service,Checking account,"Account opening, closing, or management",,,Company chooses not to provide a public response,Wells Fargo,TX,75946,Referral,11/18/2015,Closed with explanation,Yes,,1660792
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,Company chooses not to provide a public response,TransUnion,CA,951XX,Web,11/19/2015,Closed with non-monetary relief,Yes,,1662654
+11/18/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Experian,ID,83686,Web,11/19/2015,In progress,Yes,,1664078
+11/18/2015,Bank account or service,Checking account,"Making/receiving payments, sending money",,,,Navy FCU,GA,313XX,Web,11/18/2015,In progress,Yes,,1661394
+11/18/2015,Credit card,,Billing disputes,,,,JPMorgan Chase,MD,20872,Referral,11/20/2015,Closed with explanation,Yes,,1661238
+11/18/2015,Payday loan,,Can't contact lender,,,,CNG Financial Corporation,OH,430XX,Web,11/18/2015,Closed with explanation,Yes,,1661835
+11/18/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,"Amsher Collection Services, Inc.",MO,64701,Phone,11/23/2015,In progress,Yes,,1661768
+11/18/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,KeyBank NA,NY,10990,Web,11/20/2015,Closed with explanation,Yes,,1660641
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,FL,32128,Fax,11/20/2015,Closed with explanation,Yes,,1660466
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,VA,23224,Web,11/18/2015,In progress,Yes,,1661648
+11/18/2015,Bank account or service,Other bank product/service,"Account opening, closing, or management",,,Company chooses not to provide a public response,BB&T Financial,PA,18616,Web,11/19/2015,Closed with explanation,Yes,,1662624
+11/18/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,,,Equifax,TX,780XX,Web,11/18/2015,Closed with non-monetary relief,Yes,,1661386
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,FL,33155,Postal mail,11/20/2015,Closed with explanation,Yes,,1660630
+11/18/2015,Debt collection,,Communication tactics,Frequent or repeated calls,,Company believes the complaint is the result of a misunderstanding,Premier Portfolio Group,FL,334XX,Web,11/18/2015,Closed with explanation,Yes,,1661367
+11/18/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,,"International Computer Systems, Inc.",MI,48360,Web,11/18/2015,Closed with explanation,Yes,Yes,1661015
+11/18/2015,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,Ocwen,CA,921XX,Web,11/18/2015,In progress,Yes,,1661893
+11/18/2015,Bank account or service,Checking account,Deposits and withdrawals,,,,JPMorgan Chase,IL,60615,Referral,11/18/2015,Closed with explanation,Yes,Yes,1662486
+11/18/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,NY,10037,Web,11/20/2015,Closed with explanation,Yes,,1660992
+11/18/2015,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Bank of America,NY,10504,Referral,11/20/2015,In progress,Yes,,1660458
+11/18/2015,Credit card,,APR or interest rate,,,,Capital One,NV,891XX,Web,11/18/2015,Closed with explanation,Yes,,1661436
+11/18/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,Company chooses not to provide a public response,Bank of America,CA,93728,Phone,11/20/2015,Closed with explanation,Yes,,1661293
+11/18/2015,Debt collection,Medical,Disclosure verification of debt,Not given enough info to verify debt,,,"GLA Collection Company, Inc.",KY,407XX,Web,11/18/2015,In progress,Yes,,1662449
+11/18/2015,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,,,Synchrony Bank,TX,78212,Web,11/19/2015,Closed with explanation,Yes,,1662650
+11/18/2015,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,Company chooses not to provide a public response,Experian,MI,481XX,Web,11/18/2015,Closed with explanation,Yes,,1661409
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,CA,95356,Postal mail,11/20/2015,Closed with explanation,Yes,,1661382
+11/18/2015,Credit card,,Advertising and marketing,,,,Amex,NY,100XX,Web,11/18/2015,Closed with explanation,Yes,Yes,1661439
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,FL,33155,Postal mail,11/20/2015,Closed with explanation,Yes,,1660793
+11/18/2015,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Experian,PA,152XX,Web,11/18/2015,In progress,Yes,,1661864
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,,"Convergent Resources, Inc.",FL,33155,Postal mail,11/20/2015,Closed with explanation,Yes,,1660794
+11/18/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase,FL,329XX,Web,11/18/2015,In progress,Yes,,1661938
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,NV,,Fax,11/20/2015,Closed with explanation,Yes,,1661963
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,NC,27703,Postal mail,11/23/2015,Closed with explanation,Yes,,1660769
+11/18/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Equifax,CA,95350,Postal mail,11/23/2015,Closed with explanation,Yes,,1661577
+11/18/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,MI,48203,Web,11/18/2015,Closed with explanation,Yes,,1660626
+11/18/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,MI,48203,Web,11/18/2015,Closed with explanation,Yes,,1660625
+11/18/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,ID,836XX,Web,11/18/2015,Closed with explanation,Yes,Yes,1662211
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,TransUnion,VA,23832,Web,11/18/2015,In progress,Yes,,1660719
+11/18/2015,Debt collection,,Disclosure verification of debt,Right to dispute notice not received,,,"Glasser and Glasser, PLC",VA,24401,Web,11/18/2015,Closed with explanation,Yes,,1661665
+11/18/2015,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,Company chooses not to provide a public response,TransUnion,IL,60487,Postal mail,11/20/2015,Closed with explanation,Yes,,1661169
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,Company chooses not to provide a public response,TransUnion,CA,90764,Referral,11/23/2015,Closed with explanation,Yes,,1661688
+11/18/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,,,Equifax,FL,33511,Web,11/18/2015,Closed with explanation,Yes,,1661493
+11/18/2015,Credit card,,Credit determination,,,,JPMorgan Chase,CT,068XX,Web,11/18/2015,Closed with explanation,Yes,,1661694
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,VA,20109,Postal mail,11/20/2015,Closed with explanation,Yes,,1662221
+11/18/2015,Credit reporting,,Incorrect information on credit report,Public record,,Company chooses not to provide a public response,Experian,MN,554XX,Web,11/18/2015,Closed with explanation,Yes,,1662070
+11/18/2015,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Experian,FL,33025,Web,11/18/2015,In progress,Yes,,1661970
+11/18/2015,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,,,Equifax,MD,208XX,Web,11/18/2015,In progress,Yes,,1661606
+11/18/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,OH,45322,Postal mail,11/23/2015,Closed with explanation,Yes,,1661918
+11/18/2015,Mortgage,Other mortgage,Settlement process and costs,,,,Ocwen,IL,601XX,Web,11/18/2015,Closed with explanation,Yes,,1661625
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Experian,VA,23832,Web,11/18/2015,In progress,Yes,,1660717
+11/18/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,MN,554XX,Web,11/18/2015,Closed with explanation,Yes,,1662071
+11/18/2015,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Flagstar Bank,TX,77504,Web,11/18/2015,In progress,Yes,,1661385
+11/18/2015,Credit card,,Rewards,,,,JPMorgan Chase,CA,921XX,Web,11/18/2015,Closed with explanation,Yes,,1661638
+11/18/2015,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,PA,15110,Web,11/18/2015,Closed with explanation,Yes,,1660724
+11/18/2015,Mortgage,Home equity loan or line of credit,"Loan modification,collection,foreclosure",,,,JPMorgan Chase,FL,330XX,Web,11/18/2015,In progress,Yes,,1661634
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,FL,33155,Postal mail,11/20/2015,Closed with explanation,Yes,,1662444
+11/18/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,Company chooses not to provide a public response,TransUnion,,24504,Web,11/18/2015,Closed with non-monetary relief,Yes,,1660434
+11/18/2015,Bank account or service,Checking account,Deposits and withdrawals,,,Company chooses not to provide a public response,Bank of America,FL,33947,Referral,11/19/2015,Closed with monetary relief,Yes,,1660958
+11/18/2015,Credit card,,Credit line increase/decrease,,,,Capital One,NC,275XX,Web,11/18/2015,Closed with explanation,Yes,Yes,1661971
+11/18/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,FL,33810,Web,11/18/2015,In progress,Yes,,1661891
+11/18/2015,Mortgage,Home equity loan or line of credit,"Loan modification,collection,foreclosure",,,,Citibank,CA,921XX,Web,11/18/2015,In progress,Yes,,1661954
+11/18/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,Experian,MI,48219,Web,11/18/2015,Closed with non-monetary relief,Yes,,1660610
+11/18/2015,Credit reporting,,Improper use of my credit report,Report shared with employer w/o consent,,,Equifax,FL,346XX,Web,11/18/2015,Closed with explanation,Yes,Yes,1661928
+11/18/2015,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,,,Equifax,CA,96130,Web,11/18/2015,Closed with explanation,Yes,,1661001
+11/18/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,Company chooses not to provide a public response,"Allied Collection Services, Inc. (Nevada)",PA,170XX,Web,11/27/2015,Closed with explanation,Yes,,1662189
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,VA,23832,Web,11/18/2015,Closed with explanation,Yes,,1660718
+11/18/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,AR,722XX,Web,11/18/2015,In progress,Yes,,1660759
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Experian,VA,23832,Web,11/18/2015,In progress,Yes,,1660714
+11/18/2015,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Equifax,SC,292XX,Web,11/19/2015,Closed with explanation,Yes,,1662637
+11/18/2015,Credit reporting,,Incorrect information on credit report,Public record,,Company chooses not to provide a public response,Experian,MN,55403,Web,11/18/2015,Closed with explanation,Yes,,1662064
+11/18/2015,Debt collection,Mortgage,Taking/threatening an illegal action,Seized/Attempted to seize property,,,Ocwen,NC,280XX,Web,11/19/2015,In progress,Yes,,1662453
+11/18/2015,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,OH,45764,Web,11/18/2015,Closed with explanation,Yes,Yes,1660852
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,FL,32839,Web,11/18/2015,Closed with explanation,Yes,,1661961
+11/18/2015,Mortgage,Conventional adjustable mortgage (ARM),"Application, originator, mortgage broker",,,Company believes it acted appropriately as authorized by contract or law,Ditech Financial LLC,NJ,7869,Web,11/18/2015,Closed with explanation,Yes,,1661829
+11/18/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Equifax,MN,554XX,Web,11/18/2015,Closed with explanation,Yes,,1662065
+11/18/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,Company believes it acted appropriately as authorized by contract or law,"HCFS Health Care Financial Services, Inc.",FL,33025,Web,11/18/2015,Closed with explanation,Yes,,1661969
+11/18/2015,Bank account or service,Checking account,"Account opening, closing, or management",,,Company chooses not to provide a public response,SunTrust Bank,FL,32839,Referral,11/18/2015,Closed with explanation,Yes,,1660981
+11/18/2015,Mortgage,Other mortgage,Other,,,,"Bayview Loan Servicing, LLC",NY,11416,Postal mail,11/24/2015,In progress,Yes,,1661602
+11/18/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Nationwide Recovery Systems, Ltd",CA,928XX,Web,11/18/2015,Closed with explanation,Yes,,1661846
+11/18/2015,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase,OR,97267,Referral,11/20/2015,In progress,Yes,,1660457
+11/18/2015,Credit reporting,,Incorrect information on credit report,Public record,,,Experian,FL,328XX,Web,11/18/2015,In progress,Yes,,1661877
+11/18/2015,Debt collection,Non-federal student loan,Cont'd attempts collect debt not owed,Debt was paid,,,"URS Holding, LLC",NH,3811,Referral,11/24/2015,Closed with explanation,Yes,,1662448
+11/18/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,CT,6019,Postal mail,11/20/2015,Closed with explanation,Yes,,1662451
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,FL,33511,Web,11/18/2015,Closed with explanation,Yes,Yes,1661494
+11/18/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,Company believes it acted appropriately as authorized by contract or law,"Enhanced Recovery Company, LLC",CA,928XX,Web,11/18/2015,Closed with non-monetary relief,Yes,,1661848
+11/18/2015,Debt collection,,Cont'd attempts collect debt not owed,Debt is not mine,,Company disputes the facts presented in the complaint,Cooper Hoffman Klein Associates,CO,80004,Web,11/18/2015,Closed with explanation,Yes,,1661164
+11/18/2015,Credit reporting,,Incorrect information on credit report,Information is not mine,,Company chooses not to provide a public response,TransUnion,MI,48219,Web,11/18/2015,Closed with non-monetary relief,Yes,,1660609
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,FL,32839,Web,11/18/2015,In progress,Yes,,1661960
+11/18/2015,Bank account or service,Checking account,Deposits and withdrawals,,,Company chooses not to provide a public response,Bank of America,MN,55308,Referral,11/19/2015,Closed with explanation,Yes,,1660364
+11/18/2015,Credit card,,Identity theft / Fraud / Embezzlement,,,,Amex,CA,94109,Phone,11/20/2015,Closed with explanation,Yes,,1661368
+11/18/2015,Mortgage,Other mortgage,"Application, originator, mortgage broker",,,,Ocwen,CA,93727,Referral,11/20/2015,Closed with explanation,Yes,,1662562
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,TX,77379,Web,11/19/2015,In progress,Yes,,1662553
+11/18/2015,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,Company chooses not to provide a public response,Experian,SC,292XX,Web,11/19/2015,Closed with non-monetary relief,Yes,,1662635
+11/18/2015,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,"Select Portfolio Servicing, Inc",FL,34638,Web,11/18/2015,Closed with explanation,Yes,,1660615
+11/18/2015,Mortgage,Home equity loan or line of credit,"Loan modification,collection,foreclosure",,,,JPMorgan Chase,CA,910XX,Web,11/19/2015,In progress,Yes,,1662478
+11/18/2015,Credit reporting,,Incorrect information on credit report,Account terms,,Company chooses not to provide a public response,TransUnion,VA,23832,Web,11/18/2015,Closed with explanation,Yes,,1660716
+11/18/2015,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,,,Encore Capital Group,CA,95123,Web,11/18/2015,Closed with explanation,Yes,,1661262
+11/18/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,Company believes it acted appropriately as authorized by contract or law,"The CMI Group, Inc.",NY,10025,Web,11/18/2015,Closed with non-monetary relief,Yes,,1661855
+11/18/2015,Debt collection,Payday loan,Taking/threatening an illegal action,Sued where didn't live/sign for debt,,,"United Debt Holdings, LLC",OH,430XX,Web,11/19/2015,Closed with explanation,Yes,,1662575
+11/18/2015,Debt collection,"Other (phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,"Convergent Resources, Inc.",IL,60042,Web,11/19/2015,Closed with explanation,Yes,,1662687
+11/18/2015,Credit card,,Closing/Cancelling account,,,,Amex,FL,32836,Web,11/18/2015,Closed with explanation,Yes,Yes,1661128
